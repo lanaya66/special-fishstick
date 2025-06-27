@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components; 
+@tailwind utilities;
+
+/* 中文注释: 全局样式重置和基础设置 */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  color: #333;
+  background: #fff;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* 中文注释: 自定义动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* 中文注释: 响应式样式 - 小屏幕下弹窗标题折行 */
+@media (max-width: 500px) {
+  .modal-title {
+    white-space: normal !important;
+  }
+} 

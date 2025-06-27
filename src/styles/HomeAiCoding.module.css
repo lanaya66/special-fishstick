@@ -1,0 +1,11 @@
+//-------------- 主页样式 --------------
+.container {
+  text-align: center; // 中文注释: 居中对齐
+  padding: 20px; // 中文注释: 内边距
+}
+
+button {
+  margin: 5px; // 中文注释: 按钮间距
+  padding: 10px 20px; // 中文注释: 按钮内边距
+  font-size: 16px; // 中文注释: 按钮字体大小
+} 

@@ -1,0 +1,26 @@
+{
+  "name": "personal-web",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "deploy": "npm run build && npm run export && echo '✅ 构建完成！现在可以部署 out 文件夹到 Netlify 或其他平台'"
+  },
+  "dependencies": {
+    "next": "^15.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.1.0",
+    "i18next": "^24.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16",
+    "postcss": "^8.5.1",
+    "autoprefixer": "^10.4.20"
+  }
+} 
