@@ -26,16 +26,16 @@ const resources = {
       
       // Project Detail 入口
       projectEntranceText: "View the Project Portfolio 👇🏼",
-      passwordPlaceholder: "Enter password",
+      passwordPlaceholder: "Password",
       submitButton: "Submit",
-      passwordError: "Incorrect password. Please try again.",
-      passwordSuccessText: "Password entered correctly, new page opened 🙌🏼",
+      passwordError: "Incorrect password.",
+      passwordSuccessText: "Done! Check out the new page! 🙌🏼",
       passwordHint: "Contact me for password or find clues in my portfolio",
       contactInfo: "WeChat: lanaya2024 | Email: lanaya@example.com",
-      modalTitle: "Enter Password to Access Full Project Portfolio",
+      modalTitle: "Access Portfolio with Password",
       
       // 密码提示信息 - 严格按照设计稿
-      passwordHint1: "No password? Please contact me:",
+      passwordHint1: "No password? Get in touch:",
       wechatContact: "Wechat: s_wenxin",
       emailContact: "Email: lanayaswx@outlook.com"
     }
@@ -63,18 +63,18 @@ const resources = {
       
       // Project Detail 入口 - 修改文案
       projectEntranceText: "View the Project Portfolio 👇🏼",
-      passwordPlaceholder: "请输入密码",
+      passwordPlaceholder: "Password",
       submitButton: "提交",
-      passwordError: "密码错误，请重试。",
+      passwordError: "密码错误",
       passwordSuccessText: "密码输入正确，新页面已打开 🙌🏼",
       passwordHint: "联系我获取密码或在我的作品集中寻找线索",
       contactInfo: "微信: lanaya2024 | 邮箱: lanaya@example.com",
-      modalTitle: "输入密码以访问完整项目作品集",
+      modalTitle: "输入密码查看完整作品集",
       
       // 密码提示信息 - 严格按照设计稿
       passwordHint1: "没有密码？请联系我：",
-      wechatContact: "微信：s_wenxin",
-      emailContact: "邮箱：lanayaswx@outlook.com"
+      wechatContact: "Wechat：s_wenxin",
+      emailContact: "Email：lanayaswx@outlook.com"
     }
   }
 };

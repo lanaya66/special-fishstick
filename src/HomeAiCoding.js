@@ -20,7 +20,9 @@ export default function HomeAiCoding() {
   const [error, setError] = useState('');
   const [isHovered, setIsHovered] = useState(false);
   const [passwordState, setPasswordState] = useState('input'); // 'input', 'success'
+  const [pageHeight, setPageHeight] = useState('200vh'); // 中文注释: 动态计算页面高度
   const cardRef = useRef(null);
+  const mainContainerRef = useRef(null); // 中文注释: 主容器ref用于计算高度
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
@@ -48,8 +50,13 @@ export default function HomeAiCoding() {
       setPasswordState('success');
       
       // 中文注释: 打开对应语言的Notion链接
-      const notionUrl = 'https://www.notion.so/20258f61591a80a8bd47d569527b70ef?v=21d58f61591a80198a7b000c497dba0f&source=copy_link';
+      //const notionUrl = 'https://www.notion.so/20258f61591a80a8bd47d569527b70ef?v=21d58f61591a80198a7b000c497dba0f&source=copy_link';
+      const notionUrl = i18n.language === 'zh' 
+      ? 'https://www.notion.so/20258f61591a80a8bd47d569527b70ef?v=21d58f61591a80198a7b000c497dba0f&source=copy_link' 
+      : 'https://www.notion.so/21f58f61591a80c0a4dde31f65ab8e81?v=21f58f61591a81e89dbe000c3368d0a1&source=copy_link';
       window.open(notionUrl, '_blank');
+
+
       
       // 中文注释: 3秒后关闭弹窗
       setTimeout(() => {
@@ -87,6 +94,44 @@ export default function HomeAiCoding() {
     }
   ];
 
+  // 中文注释: 动态计算页面高度，确保背景覆盖所有内容
+  useEffect(() => {
+    const calculatePageHeight = () => {
+      if (mainContainerRef.current) {
+        const containerRect = mainContainerRef.current.getBoundingClientRect();
+        // 中文注释: 内容实际高度 + 顶部偏移 + 底部边距72px + 额外缓冲100px
+        const contentBasedHeight = containerRect.height + 200 + 72 + 100;
+        // 中文注释: 确保至少有一屏高度，但主要以内容为准
+        const totalHeight = Math.max(contentBasedHeight, window.innerHeight);
+        setPageHeight(`${totalHeight}px`);
+      }
+    };
+
+    // 中文注释: 初始计算和窗口resize时重新计算，内容变化时也重新计算
+    const timeoutId = setTimeout(calculatePageHeight, 100);
+    calculatePageHeight();
+    window.addEventListener('resize', calculatePageHeight);
+
+    return () => {
+      clearTimeout(timeoutId);
+      window.removeEventListener('resize', calculatePageHeight);
+    };
+  }, [experiences.length, i18n.language]); // 中文注释: 当内容或语言变化时重新计算
+
+  // 中文注释: 监听ESC键关闭弹窗
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (e.key === 'Escape' && isModalOpen) {
+        handleCloseModal();
+      }
+    };
+
+    if (isModalOpen) {
+      document.addEventListener('keydown', handleKeyDown);
+      return () => document.removeEventListener('keydown', handleKeyDown);
+    }
+  }, [isModalOpen]);
+
   // 中文注释: 监听点击外部区域关闭下拉菜单
   useEffect(() => {
     const handleOutsideClick = (e) => {
@@ -102,11 +147,12 @@ export default function HomeAiCoding() {
   }, [isLanguageDropdownOpen]);
 
   return (
-    <div className="min-h-screen bg-white relative" style={{ paddingBottom: '72px' }}>
-      {/* 中文注释: 背景渐变层 - 简化为普通滚动 */}
+    <div className="w-full bg-white relative" style={{ paddingBottom: '72px', minHeight: pageHeight }}>
+      {/* 中文注释: 背景渐变层 - 动态计算高度确保完全覆盖 */}
       <div 
-        className="absolute inset-0 w-full opacity-40 z-0"
+        className="absolute top-0 left-0 w-full opacity-40 z-0"
         style={{
+          height: pageHeight,
           background: `radial-gradient(ellipse 1200px 800px at 1384px 617px, 
             rgba(255,245,219,1) 0%, 
             rgba(255,253,237,1) 21.327%, 
@@ -117,7 +163,7 @@ export default function HomeAiCoding() {
       />
 
       {/* 中文注释: 装饰性背景元素 */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      <div className="absolute top-0 left-0 w-full overflow-hidden pointer-events-none" style={{ height: pageHeight }}>
         {/* 右上角圆形 */}
         <div 
           className="absolute w-[483px] h-[483px] -top-32 right-[-100px] rounded-full"
@@ -141,13 +187,13 @@ export default function HomeAiCoding() {
         />
       </div>
 
-      {/* 中文注释: 导航栏 */}
+      {/* 中文注释: 导航栏 - 移动端适配 */}
       <nav className="absolute top-0 left-0 w-full h-[148px] backdrop-blur-[2px] bg-white/10 z-20">
-        <div className="absolute top-[60px] right-[112px]">
+        <div className="absolute top-[60px] right-4 sm:right-[112px]">
           <div className="relative language-dropdown">
             <button
               onClick={() => setIsLanguageDropdownOpen(!isLanguageDropdownOpen)}
-              className="flex items-center gap-1 px-3 py-2 text-[#323335] font-semibold text-base leading-5 rounded-lg transition-all duration-200 hover:bg-white/20"
+              className="flex items-center gap-1 px-3 py-2 text-[#323335] font-semibold text-sm sm:text-base leading-5 rounded-lg transition-all duration-200 hover:bg-white/20"
             >
               {i18n.language === 'zh' ? '中文' : 'English'}
               <svg 
@@ -161,16 +207,34 @@ export default function HomeAiCoding() {
             </button>
             
             {isLanguageDropdownOpen && (
-              <div className="absolute top-full right-0 mt-2 bg-white/95 backdrop-blur-sm border border-gray-200/50 rounded-lg shadow-xl z-50 min-w-[100px] py-1">
+              <div className="absolute top-full right-0 mt-2 backdrop-blur-sm border border-gray-200/50 rounded-lg shadow-lg z-50 min-w-[100px] py-1" style={{ backgroundColor: '#FDFCF3' }}>
                 <button 
                   onClick={() => changeLanguage('en')} 
-                  className="block w-full px-4 py-2 text-left hover:bg-gray-50 text-sm font-medium text-gray-700 transition-colors duration-150"
+                  className="block px-4 py-2 mx-1 text-left text-sm font-medium text-gray-700 transition-colors duration-150"
+                  style={{ '&:hover': { backgroundColor: '#EEEDE0' }, width: 'calc(100% - 8px)' }}
+                  onMouseEnter={(e) => {
+                    e.target.style.backgroundColor = '#EEEDE0';
+                    e.target.style.borderRadius = '8px';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.target.style.backgroundColor = 'transparent';
+                    e.target.style.borderRadius = '8px';
+                  }}
                 >
                   English
                 </button>
                 <button 
                   onClick={() => changeLanguage('zh')} 
-                  className="block w-full px-4 py-2 text-left hover:bg-gray-50 text-sm font-medium text-gray-700 transition-colors duration-150"
+                  className="block px-4 py-2 mx-1 text-left text-sm font-medium text-gray-700 transition-colors duration-150"
+                  style={{ '&:hover': { backgroundColor: '#EEEDE0' }, width: 'calc(100% - 8px)' }}
+                  onMouseEnter={(e) => {
+                    e.target.style.backgroundColor = '#EEEDE0';
+                    e.target.style.borderRadius = '8px';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.target.style.backgroundColor = 'transparent';
+                    e.target.style.borderRadius = '8px';
+                  }}
                 >
                   中文
                 </button>
@@ -180,11 +244,11 @@ export default function HomeAiCoding() {
         </div>
       </nav>
 
-      {/* 中文注释: 整个内容容器 - 包含标题和所有内容，整体居中 */}
-      <div className="absolute top-[200px] left-1/2 transform -translate-x-1/2 w-[720px] z-10">
-        {/* 中文注释: 主标题 - 在容器内左对齐 */}
+      {/* 中文注释: 整个内容容器 - 包含标题和所有内容，整体居中，支持移动端响应式 */}
+      <div ref={mainContainerRef} className="absolute top-[200px] left-1/2 transform -translate-x-1/2 w-[720px] max-w-[90vw] px-4 sm:px-0 z-10">
+        {/* 中文注释: 主标题 - 响应式字体大小，移动端适配 */}
         <h1 
-          className="text-[36px] font-bold text-[#323335] leading-none tracking-[-0.72px] whitespace-nowrap"
+          className="text-[28px] sm:text-[36px] font-bold text-[#323335] leading-none tracking-[-0.72px] whitespace-nowrap"
           style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
         >
           Hi, I'm Lanaya Shi
@@ -274,10 +338,10 @@ export default function HomeAiCoding() {
               </div>
             </div>
 
-            {/* 中文注释: Project Detail 入口卡片 - 简化为默认状态 */}
+            {/* 中文注释: Project Detail 入口卡片 - 移动端响应式适配 */}
             <div 
               ref={cardRef}
-              className="project-card relative w-[720px] h-[320px] rounded-lg transition-all duration-300 ease-out cursor-pointer"
+              className="project-card relative w-full max-w-[720px] aspect-[2/1] sm:aspect-auto sm:h-[320px] rounded-lg transition-all duration-300 ease-out cursor-pointer"
               style={{
                 background: 'linear-gradient(180deg, #d7e9d4 0%, #a5caa7 75.962%, #7eb184 100%)',
                 marginBottom: '72px',
@@ -291,15 +355,31 @@ export default function HomeAiCoding() {
             >
               <div className="overflow-hidden relative w-full h-full rounded-lg">
                 
-                {/* 中文注释: 标题文案 */}
-                <div className="absolute left-1/2 top-[42px] transform -translate-x-1/2 w-[336px]">
+                {/* 中文注释: 标题文案 - 移动端适配 */}
+                <div className="absolute left-1/2 top-[32px] sm:top-[42px] transform -translate-x-1/2 w-[280px] sm:w-[336px] px-4 sm:px-0">
                   <p 
-                    className="text-[18px] font-semibold italic text-[#4c6b47] text-center leading-none"
+                    className="text-[16px] sm:text-[18px] font-semibold italic text-[#4c6b47] text-center leading-none"
                     style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                   >
                     View the Project Portfolio 👇🏼
                   </p>
                 </div>
+
+                {/* 中文注释: 移动端组合图片 - 只在小屏幕显示，确保高度占card的2/3 */}
+                <div className="block sm:hidden absolute bottom-0 left-0 w-full h-2/3">
+                  <img 
+                    src="/card_pictures.png" 
+                    alt="Project Portfolio Preview"
+                    className="w-full h-full object-cover object-bottom"
+                    style={{ 
+                      transform: isHovered ? 'scale(1.02)' : 'scale(1)',
+                      transition: 'transform 300ms ease-out'
+                    }}
+                  />
+                </div>
+
+                {/* 中文注释: 桌面端独立图片组 - 只在大屏幕显示，保持原有动效 */}
+                <div className="hidden sm:block">
 
                 {/* 中文注释: 7张项目图片 - 添加hover态位置和角度变化 */}
                 {/* 图片1 - Frame 63 - 右上角 */}
@@ -427,6 +507,7 @@ export default function HomeAiCoding() {
                     />
                   </div>
                 </div>
+                </div>
               </div>
               
               {/* 卡片边框 */}
@@ -437,29 +518,33 @@ export default function HomeAiCoding() {
       </main>
       </div>
 
-      {/* 中文注释: 密码输入弹窗 - 严格按照Figma设计稿实现，独立于内容容器 */}
+      {/* 中文注释: 密码输入弹窗 - 移动端响应式适配 */}
       {isModalOpen && (
         <div 
-          className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50"
+          className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 px-4"
           onClick={(e) => {
-            // 中文注释: 点击遮罩层不关闭弹窗，只有点击关闭按钮才关闭
+            // 中文注释: 点击遮罩层关闭弹窗
             if (e.target === e.currentTarget) {
-              // 暂时不关闭，只有关闭按钮能关闭
+              handleCloseModal();
             }
           }}
         >
           <div 
-            className="relative w-[640px] h-[412px] rounded-2xl shadow-2xl overflow-hidden"
+            className="relative w-full max-w-[640px] h-[380px] sm:h-[412px] rounded-2xl shadow-2xl overflow-hidden"
             style={{
               background: 'linear-gradient(180deg, #F0FAE7 0%, #DCE8DD 100%)'
             }}
           >
-            {/* 中文注释: 背景图片层 */}
+            {/* 中文注释: 背景图片层 - 移动端响应式缩放 */}
             <img 
               src="/background.png" 
               alt="Modal background"
               className="absolute inset-0 w-full h-full object-cover"
-              style={{ zIndex: 1 }}
+              style={{ 
+                zIndex: 1,
+                transform: 'scale(1.1)',
+                transformOrigin: 'center center'
+              }}
               onLoad={() => console.log('背景图片加载成功')}
               onError={() => console.log('背景图片加载失败')}
             />
@@ -472,32 +557,31 @@ export default function HomeAiCoding() {
                 handleCloseModal();
               }}
               className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center text-[#4c6b47] hover:bg-white/20 rounded-full transition-all duration-200"
-              style={{ zIndex: 30 }}
+              style={{ zIndex: 50 }}
             >
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
             </button>
 
-            {/* 中文注释: 标题 - 距顶部42px，16pt字号，保持一行显示 */}
-            <div className="absolute top-[42px] left-1/2 transform -translate-x-1/2 px-4" style={{ zIndex: 20 }}>
+            {/* 中文注释: 标题 - 移动端适配，确保在背景图片上方，左右间距24px，移除重复padding */}
+            <div className="absolute top-[32px] sm:top-[42px] left-1/2 transform -translate-x-1/2 w-full max-w-[calc(100%-48px)]" style={{ zIndex: 50 }}>
               <h2 
-                className="text-[16px] font-semibold text-[#4c6b47] text-center"
+                className="text-[15px] sm:text-[16px] font-semibold text-[#4c6b47] text-center leading-tight sm:leading-normal"
                 style={{ 
                   fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif",
-                  lineHeight: '1.2',
-                  whiteSpace: 'nowrap'
+                  lineHeight: '1.3'
                 }}
               >
                 {t('modalTitle', 'Enter Password to Access Full Project Portfolio')}
               </h2>
             </div>
 
-            {/* 中文注释: 密码输入区域 - 距顶部244px */}
-            <div className="absolute top-[244px] left-1/2 transform -translate-x-1/2" style={{ zIndex: 20 }}>
+            {/* 中文注释: 密码输入区域 - 移动端适配位置，确保在背景图片上方 */}
+            <div className="absolute top-[180px] sm:top-[244px] left-1/2 transform -translate-x-1/2 px-6" style={{ zIndex: 50 }}>
               {/* 密码输入区域 */}
               {passwordState === 'input' && (
-                <div className="w-[296px]">
+                <div className="w-full max-w-[296px]">
                   <form onSubmit={handlePasswordSubmit} className="flex flex-col gap-3">
                     {/* 密码输入框 - 严格按照新的样式要求 */}
                     <div className="relative">
@@ -506,10 +590,10 @@ export default function HomeAiCoding() {
                         value={password}
                         onChange={(e) => setPassword(e.target.value)}
                         placeholder={t('passwordPlaceholder', 'Password')}
-                        className="w-full px-4 py-3 pr-12 rounded-lg focus:outline-none text-[14px] font-medium text-[#323335] placeholder-[rgba(50,51,53,0.56)] transition-all duration-200"
+                        className="w-full px-4 py-3 pr-14 sm:pr-12 rounded-lg focus:outline-none text-[15px] sm:text-[14px] font-medium text-[#323335] placeholder-[rgba(50,51,53,0.56)] transition-all duration-200"
                         style={{ 
                           fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif",
-                          height: '44px',
+                          height: '48px', // 移动端稍大一些
                           backgroundColor: 'rgba(255, 255, 255, 0.72)', // 填充 #FFFFFF 72%
                           border: '1px solid #ffffff', // active态边框
                           boxShadow: 'none'
@@ -528,11 +612,11 @@ export default function HomeAiCoding() {
                         }}
                         autoFocus
                       />
-                      {/* 提交按钮 - 根据新的样式要求 */}
+                      {/* 提交按钮 - 移动端增大尺寸 */}
                       <button 
                         type="submit" 
                         disabled={!password.trim()}
-                        className="absolute right-2 top-1/2 transform -translate-y-1/2 w-8 h-8 rounded-md transition-all duration-200 flex items-center justify-center"
+                        className="absolute right-2 top-1/2 transform -translate-y-1/2 w-9 h-9 sm:w-8 sm:h-8 rounded-md transition-all duration-200 flex items-center justify-center"
                         style={{
                           backgroundColor: password.trim() ? '#C3D0C0' : 'rgba(195, 208, 192, 0.32)', // 可用态或禁用态(32%透明度)
                           border: password.trim() ? '1px solid #ffffff' : '1px solid rgba(255, 255, 255, 0.32)', // 边框透明度
@@ -540,7 +624,7 @@ export default function HomeAiCoding() {
                           cursor: password.trim() ? 'pointer' : 'not-allowed'
                         }}
                       >
-                        <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <svg className="w-5 h-5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
                       </button>
@@ -549,7 +633,7 @@ export default function HomeAiCoding() {
                     {/* 错误信息 */}
                     {error && (
                       <p 
-                        className="text-[12px] text-[#ec221f] font-medium leading-none"
+                        className="text-[13px] sm:text-[12px] text-[#ec221f] font-medium leading-none text-center"
                         style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                       >
                         {error}
@@ -560,20 +644,20 @@ export default function HomeAiCoding() {
                   {/* 获取密码提示信息 */}
                   <div className="flex flex-col gap-3 items-center mt-6">
                     <p 
-                      className="text-[12px] text-[rgba(50,51,53,0.56)] text-center leading-none font-normal"
+                      className="text-[13px] sm:text-[12px] text-[rgba(50,51,53,0.56)] text-center leading-none font-normal"
                       style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                     >
                       {t('passwordHint1', 'No password? Please contact me:')}
                     </p>
-                    <div className="flex gap-4 items-center">
+                    <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 items-center">
                       <p 
-                        className="text-[12px] text-[#4c6b47] font-medium italic text-center whitespace-nowrap"
+                        className="text-[13px] sm:text-[12px] text-[#4c6b47] font-medium italic text-center whitespace-nowrap"
                         style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                       >
                         {t('wechatContact', 'Wechat: s_wenxin')}
                       </p>
                       <p 
-                        className="text-[12px] text-[#4c6b47] font-medium italic text-center whitespace-nowrap"
+                        className="text-[13px] sm:text-[12px] text-[#4c6b47] font-medium italic text-center whitespace-nowrap"
                         style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                       >
                         {t('emailContact', 'Email: lanayaswx@outlook.com')}
@@ -585,9 +669,9 @@ export default function HomeAiCoding() {
 
               {/* 密码正确状态 */}
               {passwordState === 'success' && (
-                <div className="w-[400px]">
+                <div className="w-full max-w-[400px]">
                   <p 
-                    className="text-[18px] font-semibold text-[#4c6b47] text-center leading-relaxed"
+                    className="text-[16px] sm:text-[18px] font-semibold text-[#4c6b47] text-center leading-relaxed"
                     style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                   >
                     {t('passwordSuccessText', 'Password entered correctly, new page opened 🙌🏼')}
