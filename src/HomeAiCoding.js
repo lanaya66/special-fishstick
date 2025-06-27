@@ -507,6 +507,7 @@ export default function HomeAiCoding() {
                     />
                   </div>
                 </div>
+
                 </div>
               </div>
               
@@ -539,10 +540,9 @@ export default function HomeAiCoding() {
             <img 
               src="/background.png" 
               alt="Modal background"
-              className="absolute inset-0 w-full h-full object-cover"
+              className="absolute inset-0 w-full h-full object-cover scale-105 sm:scale-110"
               style={{ 
                 zIndex: 1,
-                transform: 'scale(1.1)',
                 transformOrigin: 'center center'
               }}
               onLoad={() => console.log('背景图片加载成功')}
@@ -578,11 +578,11 @@ export default function HomeAiCoding() {
             </div>
 
             {/* 中文注释: 密码输入区域 - 移动端适配位置，确保在背景图片上方 */}
-            <div className="absolute top-[180px] sm:top-[244px] left-1/2 transform -translate-x-1/2 px-6" style={{ zIndex: 50 }}>
+            <div className="absolute top-[200px] sm:top-[244px] left-1/2 transform -translate-x-1/2 px-6" style={{ zIndex: 50 }}>
               {/* 密码输入区域 */}
               {passwordState === 'input' && (
-                <div className="w-full max-w-[296px]">
-                  <form onSubmit={handlePasswordSubmit} className="flex flex-col gap-3">
+                <div className="w-full max-w-[296px] relative" style={{ height: '120px', minWidth: '200px' }}>
+                  <form onSubmit={handlePasswordSubmit} className="relative">
                     {/* 密码输入框 - 严格按照新的样式要求 */}
                     <div className="relative">
                       <input
@@ -630,21 +630,29 @@ export default function HomeAiCoding() {
                       </button>
                     </div>
                     
-                    {/* 错误信息 */}
+                    {/* 错误信息 - 绝对定位，输入框下方固定12px */}
                     {error && (
-                      <p 
-                        className="text-[13px] sm:text-[12px] text-[#ec221f] font-medium leading-none text-center"
-                        style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
+                      <div 
+                        className="absolute left-0 right-0 flex justify-center"
+                        style={{ top: '60px' }} // 48px输入框高度 + 12px间距
                       >
-                        {error}
-                      </p>
+                        <p 
+                          className="text-[13px] sm:text-[12px] text-[#ec221f] font-medium leading-none text-center"
+                          style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
+                        >
+                          {error}
+                        </p>
+                      </div>
                     )}
                   </form>
 
-                  {/* 获取密码提示信息 */}
-                  <div className="flex flex-col gap-3 items-center mt-6">
+                  {/* 获取密码提示信息 - 绝对定位，确保位置固定 */}
+                  <div 
+                    className="absolute left-0 right-0 flex flex-col gap-3 items-center"
+                    style={{ top: '84px' }} // 48px输入框 + 12px + 12px + 12px = 84px
+                  >
                     <p 
-                      className="text-[13px] sm:text-[12px] text-[rgba(50,51,53,0.56)] text-center leading-none font-normal"
+                      className="text-[13px] sm:text-[12px] text-[rgba(50,51,53,0.56)] text-center leading-none font-normal whitespace-nowrap"
                       style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
                     >
                       {t('passwordHint1', 'No password? Please contact me:')}

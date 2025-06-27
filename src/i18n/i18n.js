@@ -32,7 +32,7 @@ const resources = {
       passwordSuccessText: "Done! Check out the new page! 🙌🏼",
       passwordHint: "Contact me for password or find clues in my portfolio",
       contactInfo: "WeChat: lanaya2024 | Email: lanaya@example.com",
-      modalTitle: "Access Portfolio with Password",
+      modalTitle: "Access Portfolio with Password 🔑",
       
       // 密码提示信息 - 严格按照设计稿
       passwordHint1: "No password? Get in touch:",
@@ -66,13 +66,13 @@ const resources = {
       passwordPlaceholder: "Password",
       submitButton: "提交",
       passwordError: "密码错误",
-      passwordSuccessText: "密码输入正确，新页面已打开 🙌🏼",
+      passwordSuccessText: "密码正确，去新页面看看吧 🙌🏼",
       passwordHint: "联系我获取密码或在我的作品集中寻找线索",
       contactInfo: "微信: lanaya2024 | 邮箱: lanaya@example.com",
-      modalTitle: "输入密码查看完整作品集",
+      modalTitle: "Access Portfolio with Password 🔑 ",
       
       // 密码提示信息 - 严格按照设计稿
-      passwordHint1: "没有密码？请联系我：",
+      passwordHint1: "需要密码？到这里找到我：",
       wechatContact: "Wechat：s_wenxin",
       emailContact: "Email：lanayaswx@outlook.com"
     }
