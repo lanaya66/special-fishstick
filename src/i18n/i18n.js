@@ -9,35 +9,28 @@ const resources = {
       mainTitle: "Hi, I'm Lanaya Shi",
       about: "About",
       experience: "Experience",
+      projects: "Projects",
       
       // About 段落
-      aboutPara1: "Passionate about self-improvement, enthusiastic about critical thinking and debate, deeply drawn to artistic sensibilities, feminism, and the belief in fluidity. Once idolized geek culture and was a productivity enthusiast.",
-      aboutPara2: "I'm now experiencing a slower pace of life, observing and rethinking humanity's pursuit of high-speed technology, the fast-paced society, and whether new technologies like AI are primarily addressing the issues of highly skilled individuals, continuing to create wealth for the economic elite, and falling short in assisting ordinary people. I also ponder the potential for technology to reduce class solidification and narrow the wealth gap in the future.",
-      aboutPara3: "My core profession is product design for internet products. I love music, especially Jazz hip-hop, Nujabes, FKJ.",
-      aboutPara4: "I love nature, especially walking in the beautiful nature like JiuzhaiGou and Iceland, which I just traveled a few day's ago. I very like to thinking and reading, listening podcasts, especially about philosophy, thinking, social science.",
-      
+      aboutPara1: "Product design is not just my profession but also a significant way I experience focus.",
+      aboutPara2: "In my past work, I've sought elegant solutions within complex systems, balancing clarity and familiarity with simplicity and efficiency in highly detailed tools, aiming to reduce friction for individual workers in an era of information dispersion.",
+      aboutPara3: "I used to be a productivity enthusiast, drawn to various automation technologies and products that enhance efficiency and cut unnecessary time waste. In recent years, my AI product work has focused more on issues like \"effortless automation versus human control\" and \"traditional interfaces versus new interaction languages.\"",
+      aboutPara4: "I have a passion for nature, share my home with two cats, and occasionally indulge in reading and podcasts during my leisure time.",
+      aboutPara5: "Music is another joy; I enjoy Jazz hip-hop, City Pop, and artists like Nujabes, FKJ, and Honne.",
+      aboutPara6: "After a long period of intense work leading to the launch of my previous product, I decided to take a break from years of busyness to rediscover the observation of everyday life. Over the past few months, I've gone hiking in places I've always wanted to visit, practiced dancing to express myself in diverse ways, and started learning programming to enhance my ability to bring ideas to life and increase certainty in Vibe coding.",
+            
       // 工作经历
-      zoomDescription: "Job description 1\nLed AI-powered features design for collaborative tools, improving user productivity by 40%. Designed intuitive document editing interfaces and collaborative workflows for global enterprise clients.",
-      shimoDescription: "Job description 2\nDesigned comprehensive collaboration platform serving 10M+ users. Created unified design system and optimized workflows for document editing, project management, and team collaboration.",
-      seiueDescription: "Job description 3\nDeveloped innovative GTD (Getting Things Done) features and all-in-one collaboration solutions. Focused on user experience design for productivity tools and workflow optimization.",
-      actionPeriod: "时间",
-      actionTags: "标签", 
-      actionDescription: "Job description 4\nWorked on action-oriented design solutions and user interface optimization. Specialized in creating efficient user flows and improving overall user experience.",
+      zoomDescription: "Design Lead for the 'Page Editor + AI' Suite in <a href=\"https://www.zoom.com/en/products/collaborative-docs/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Zoom Docs</a>\n\nI spearheaded the overall interaction framework design for a document editor, leading AI-driven scenario design, team design and review processes, and organizing workshops. I also orchestrated the design material arrangements for the Zoom Docs segment in two <a href=\"https://www.youtube.com/watch?v=CuHOo6bLEic\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Zoomtopia</a> product launches.",
+      shimoDescription: "Product Designer\n\nI managed the design of the main website for <a href=\"https://shimo.im/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Shimo Docs</a> and the innovative overseas project <a href=\"https://www.producthunt.com/products/light-6\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Light</a>, covering its overall interaction framework, Wiki knowledge management, personal productivity scenarios (GTD), and team management.",
+      seiueDescription: "Head of Design, Product Designer\n\nFor <a href=\"https://www.seiue.com/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Chalk 3.0</a>, an innovative campus management product serving prestigious schools like Peking University High School and Tsinghua University High School, I built the interaction framework for both web and app, designed personal efficiency tools, explored and innovated in core educational scenarios, designed middle-tier engine functionalities, developed a new design system using Design Tokens, and oversaw design management.",
+      actionDescription: "Product Designer\n\nI independently handled the interaction design, design system development, and some product prototyping for the video appreciation and booking platform \"Action 一直拍\" on both web and app. I also contributed creative ideas for event operations.",
       
-      // Project Detail 入口
-      projectEntranceText: "View the Project Portfolio 👇🏼",
-      passwordPlaceholder: "Password",
-      submitButton: "Submit",
-      passwordError: "Incorrect password.",
-      passwordSuccessText: "Done! Check out the new page! 🙌🏼",
-      passwordHint: "Contact me for password or find clues in my portfolio",
-      contactInfo: "WeChat: lanaya2024 | Email: lanaya@example.com",
-      modalTitle: "Access Portfolio with Password 🔑",
-      
-      // 密码提示信息 - 严格按照设计稿
-      passwordHint1: "No password? Get in touch:",
-      wechatContact: "Wechat: s_wenxin",
-      emailContact: "Email: lanayaswx@outlook.com"
+      // 项目相关
+      projectsCount: "{{count}} projects in total",
+      noProjects: "No projects available",
+      loadingProjects: "Loading projects...",
+      projectLoadError: "Failed to load projects",
+      retry: "Retry"
     }
   },
   zh: {
@@ -46,35 +39,29 @@ const resources = {
       mainTitle: "Hi, I'm Lanaya Shi",
       about: "About",
       experience: "Experience",
+      projects: "Projects",
       
       // About 段落
-      aboutPara1: "热衷于自我提升，喜欢批判性思维和辩论，深深被艺术感性、女性主义和流动性信念所吸引。曾经崇拜极客文化，是一个效率爱好者。",
-      aboutPara2: "我现在正在体验更慢的生活节奏，观察和反思人类对高速技术的追求、快节奏社会，以及像AI这样的新技术是否主要解决高技能人才的问题，继续为经济精英创造财富，而在帮助普通人方面做得不够。我也在思考技术在未来减少阶层固化和缩小贫富差距的潜力。",
-      aboutPara3: "我的核心职业是互联网产品的产品设计。我喜欢音乐，特别是爵士嘻哈、Nujabes、FKJ。",
-      aboutPara4: "我热爱自然，特别喜欢在九寨沟和冰岛这样的美丽自然环境中漫步，我几天前刚刚去过那里旅行。我非常喜欢思考和阅读，听播客，特别是关于哲学、思维、社会科学的内容。",
+      aboutPara1: "产品设计是我的工作，也是我感受专注的重要方式之一。",
+      aboutPara2: "在过去的工作中，我从复杂系统中寻找优雅解法，在高度细节化的工具中平衡着清晰熟悉与简洁高效，为信息分散时代的个体工作者寻找减少摩擦的可能性。",
+      aboutPara3: "我曾是生产力控，喜欢各类能提升效率、减少不必要时间消耗的自动化技术与产品。在近几年的 AI 产品工作中，我更多专注在「自动化的不费力与人的控制权」和「传统界面与新的交互语言」等问题上。",
+      aboutPara4: "我热爱自然，养了两只猫咪，闲时偶尔阅读，听播客。",
+      aboutPara5: "享受音乐，Jazz hip-hop、City Pop，Nujabes，FKJ，Honne。",
+      aboutPara6: "在忙碌了很久的上一个产品上线后，我决定从连续多年的繁忙中休息片刻，找回对平凡生活的观察。在过去几个月，我去了一直想去的地方徒步；练习舞蹈，用多元方式表达自我；学习编程入门，提升想法落地的能力，增加在与 AI 协作中的确定性。",
       
       // 工作经历
-      zoomDescription: "工作描述 1\n负责AI驱动的协作工具功能设计，将用户生产力提高了40%。为全球企业客户设计直观的文档编辑界面和协作工作流程。",
-      shimoDescription: "工作描述 2\n设计服务1000万+用户的综合协作平台。创建统一的设计系统，优化文档编辑、项目管理和团队协作的工作流程。",
-      seiueDescription: "工作描述 3\n开发创新的GTD（Getting Things Done）功能和一体化协作解决方案。专注于生产力工具的用户体验设计和工作流程优化。", 
-      actionPeriod: "2020.06 - 2021.10",
-      actionTags: "产品设计, 用户体验",
-      actionDescription: "工作描述 4\n从事面向行动的设计解决方案和用户界面优化工作。专注于创建高效的用户流程和改善整体用户体验。",
+      zoomDescription: "<a href=\"https://www.zoom.com/en/products/collaborative-docs/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Zoom Docs</a>  Page Editor + AI 组产品设计师，设计组长\n\n负责文档编辑器的整体交互框架设计，主导 AI-driven 场景设计，团队设计与审核流程，组织 Workshop，主导了两次 <a href=\"https://www.youtube.com/watch?v=CuHOo6bLEic\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Zoomtopia</a> 发布会中 Zoom Docs 场景的设计素材工作安排。",
+      shimoDescription: "产品设计师\n\n负责<a href=\"https://shimo.im/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">石墨文档</a>主站设计，All-In-One 出海创新项目 <a href=\"https://www.producthunt.com/products/light-6\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Light</a> 主站的设计，包括 Light 整体交互框架，Wiki 知识管理场景，个人生产力场景 GTD 的探索与创新，以及团队管理场景。",
+      seiueDescription: "产品设计师，设计负责人\n\n<a href=\"https://www.seiue.com/\" target=\"_blank\" style=\"color: inherit; text-decoration: underline;\">Chalk 3.0</a> 是全场景覆盖的创新型校园管理产品，深度服务北大附中、清华附中、北京四中、王府学校、广州中学、深圳中学等优质创新校。我负责产品 Web、App 端的交互框架搭建，个人效率工具的设计，核心教育场景的全链路产品设计与创新探索，中台引擎功能的设计，基于 Design Token 构建新的设计系统，以及设计管理工作。",
+
+      actionDescription: "产品设计师\n\n独立负责视频欣赏与约片平台「Action 一直拍」Web 与 APP 端产品的交互设计，部分产品原型工作，设计系统建设，同时为运营活动提供创意灵感。",
       
-      // Project Detail 入口 - 修改文案
-      projectEntranceText: "View the Project Portfolio 👇🏼",
-      passwordPlaceholder: "Password",
-      submitButton: "提交",
-      passwordError: "密码错误",
-      passwordSuccessText: "密码正确，去新页面看看吧 🙌🏼",
-      passwordHint: "联系我获取密码或在我的作品集中寻找线索",
-      contactInfo: "微信: lanaya2024 | 邮箱: lanaya@example.com",
-      modalTitle: "Access Portfolio with Password 🔑 ",
-      
-      // 密码提示信息 - 严格按照设计稿
-      passwordHint1: "需要密码？到这里找到我：",
-      wechatContact: "Wechat：s_wenxin",
-      emailContact: "Email：lanayaswx@outlook.com"
+      // 项目相关
+      projectsCount: "共 {{count}} 个项目",
+      noProjects: "暂无项目数据",
+      loadingProjects: "加载项目中...",
+      projectLoadError: "加载项目数据失败",
+      retry: "重试"
     }
   }
 };

@@ -1,0 +1,4993 @@
+{
+  "page": {
+    "object": "page",
+    "id": "20258f61-591a-807d-8f90-dd3933d92ab9",
+    "created_time": "2025-05-29T10:40:00.000Z",
+    "last_edited_time": "2025-07-14T09:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "📃"
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "20258f61-591a-80a8-bd47-d569527b70ef"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Cover": {
+        "id": "%3D_nM",
+        "type": "files",
+        "files": []
+      },
+      "方案验证-数据与用户反馈": {
+        "id": "M%5BUH",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "主内容": {
+        "id": "iPLx",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Slug": {
+        "id": "nIAm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "zoom-docs-page-editor",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "zoom-docs-page-editor",
+            "href": null
+          }
+        ]
+      },
+      "整体过一遍，缩减到 2/3，AI 帮忙措辞优化更 fancy 贴近 apple 宣传风格": {
+        "id": "orTb",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "背景场景等信息补充和优化": {
+        "id": "r%5EOS",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "英文版整理": {
+        "id": "uiEF",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Status": {
+        "id": "w%3ABy",
+        "type": "status",
+        "status": {
+          "id": "76ee00dd-abe9-4d98-bddc-64482b2c470c",
+          "name": "In progress",
+          "color": "blue"
+        }
+      },
+      "Tag": {
+        "id": "wfq%60",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "f21f3177-df28-46dd-89e3-c8e0ef96ea25",
+            "name": "Enterprise",
+            "color": "brown"
+          },
+          {
+            "id": "6ae2d7f8-4e2e-4e64-a11f-ea0fa811c2f3",
+            "name": "Document Collaboration",
+            "color": "green"
+          }
+        ]
+      },
+      "中文版整理": {
+        "id": "%7DMq%5D",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs - Page editor",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs - Page editor",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Zoom-Docs-Page-editor-20258f61591a807d8f90dd3933d92ab9",
+    "public_url": null,
+    "request_id": "576f1e03-16cf-44ac-a3e8-2075e32ead0e"
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "22458f61-591a-8041-b285-d6107dee8390",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-07-02T09:56:00.000Z",
+      "last_edited_time": "2025-07-14T09:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🕰️ 时间: 2023.03 - 2024.08",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🕰️ 时间: 2023.03 - 2024.08",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8139-a807-df3d705b9717",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-14T09:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "👩🏻‍💻 角色: 产品设计师，设计组长，",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "👩🏻‍💻 角色: 产品设计师，设计组长，",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "负责文档编辑器的整体交互框架设计，包括核心 Toolbar、Menu 等主要交互模式的规划与设计，多个高频 Block 的创建与编辑的交互设计；部分文档内协作场景的设计，如多人协作时的头像和光标实时协同。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "负责文档编辑器的整体交互框架设计，包括核心 Toolbar、Menu 等主要交互模式的规划与设计，多个高频 Block 的创建与编辑的交互设计；部分文档内协作场景的设计，如多人协作时的头像和光标实时协同。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8192-98b8-ee2ba252bcd7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-18T11:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Introduction",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Introduction",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-8058-99c0-c9d3f9cfa42b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T08:44:00.000Z",
+      "last_edited_time": "2025-07-02T14:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/97b7aaa2-5fec-4b61-902e-5f8fd36dc56b/description.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=d2167f0d6957bc49ba6ec051c164b678c71e6b15e482176aeff8db93ccefc34d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.112Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21558f61-591a-8058-99c0-c9d3f9cfa42b.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80a7-a041-c2c245e7256e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T10:26:00.000Z",
+      "last_edited_time": "2025-06-16T08:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "混合办公已成为常态，Zoom Docs 正是为此而生，与 Zoom Workspace 共同解决工作中一些最紧迫的挑战：重复性任务、多平台产品切换造成的时间浪费、信息过载以及跨职能无缝协作的需求。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "混合办公已成为常态，Zoom Docs 正是为此而生，与 Zoom Workspace 共同解决工作中一些最紧迫的挑战：重复性任务、多平台产品切换造成的时间浪费、信息过载以及跨职能无缝协作的需求。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8010-8f68-f09c2792e8e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T10:29:00.000Z",
+      "last_edited_time": "2025-06-13T10:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "通过 Zoom Docs，完成日常文档的创作或协同、会议前后信息同步与使用、知识沉淀、项目管理等工作，无论团队位于何处，都能更轻松地保持一致性和生产力。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "通过 Zoom Docs，完成日常文档的创作或协同、会议前后信息同步与使用、知识沉淀、项目管理等工作，无论团队位于何处，都能更轻松地保持一致性和生产力。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21758f61-591a-80cc-a8f9-ddec57a00d10",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-19T08:35:00.000Z",
+      "last_edited_time": "2025-06-19T08:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21758f61-591a-8028-a960-cbccfec645c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-19T08:35:00.000Z",
+      "last_edited_time": "2025-06-19T08:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/f5ac8453-d189-4eee-bdfb-8eeb5bb78e8b/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=00e3196c87d3490efafcc134e7b54e62b0ca22715b6216c48d4ad8a71dd960e4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.112Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21758f61-591a-8028-a960-cbccfec645c8.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8073-9568-d2680410d23a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T10:30:00.000Z",
+      "last_edited_time": "2025-06-16T08:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs 的发布不仅仅是一项渐进式功能，而是一次战略转向，旨在让 Zoom 成为日常工作中不可或缺的一部分，通过将 Zoom Docs 集成到现有平台中，Zoom 正加倍努力打造一个连贯的、一站式沟通与协作生态系统。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs 的发布不仅仅是一项渐进式功能，而是一次战略转向，旨在让 Zoom 成为日常工作中不可或缺的一部分，通过将 Zoom Docs 集成到现有平台中，Zoom 正加倍努力打造一个连贯的、一站式沟通与协作生态系统。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8129-a47d-f9930a3a2ead",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81bb-b4c0-f7922b053dce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "User jobs",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "User jobs",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-819e-8f02-f38679036ac4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在团队内的文档协作场景下，主要的用户任务有：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在团队内的文档协作场景下，主要的用户任务有：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81cb-bfd4-dc7211ceee8e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "创作内容阶段，用形态丰富的文字元素、多媒体或数据更好的表达和呈现内容；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "创作内容阶段，用形态丰富的文字元素、多媒体或数据更好的表达和呈现内容；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81e4-941a-ff2bdc43de33",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "修改内容或样式，突出文档重点，让内容更美观；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "修改内容或样式，突出文档重点，让内容更美观；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81c5-8128-e06661c1adb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "组织内容，区分层级，让内容更容易被理解；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "组织内容，区分层级，让内容更容易被理解；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8176-804d-ce5af050ffab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-13T12:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "与他人分享，共同创作，高效沟通等……",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "与他人分享，共同创作，高效沟通等……",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a1-bc0e-ecc249b82e8b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-815e-8db6-dfe611c094fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8133-b3fe-e6bea1925edf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81d0-bf04-e0402b4d8471",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8138-ae28-c1f784f52b5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Explorations",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Explorations",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81cf-8674-c7906be8559d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Challenges",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Challenges",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8185-86e1-ef436195d41f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "传统文档（如 Google Doc、Microsoft Word）的内容由字符及元素直接组成，用户习惯于通过固定工具栏进行直观的操作。而近年来，以 Notion 为代表的新型文档工具引入了基于 Block 的内容组织方式，Block 作为统一的交互容器，使得内容拖拽、控制、编辑更加灵活，从而带来了更高的自由度和排版可能性。同时，Notion 通过快捷键唤出插入菜单等方式，简化了交互界面并提升了部分用户的使用效率。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "传统文档（如 Google Doc、Microsoft Word）的内容由字符及元素直接组成，用户习惯于通过固定工具栏进行直观的操作。而近年来，以 Notion 为代表的新型文档工具引入了基于 Block 的内容组织方式，Block 作为统一的交互容器，使得内容拖拽、控制、编辑更加灵活，从而带来了更高的自由度和排版可能性。同时，Notion 通过快捷键唤出插入菜单等方式，简化了交互界面并提升了部分用户的使用效率。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-815e-b106-c9c5c6d971eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-16T09:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在前期调研中，我们发现，虽然很多 Notion 的用户对其简洁体验赞不绝口，但不少传统文档用户在试用 Notion 后未能持续使用。经过用户访谈和网络调研，我们了解到，部分传统用户认为 Notion 的简洁界面让他们难以找到所需工具，仅靠快捷键与情景化菜单的交互方式让他们缺乏安全感。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在前期调研中，我们发现，虽然很多 Notion 的用户对其简洁体验赞不绝口，但不少传统文档用户在试用 Notion 后未能持续使用。经过用户访谈和网络调研，我们了解到，部分传统用户认为 Notion 的简洁界面让他们难以找到所需工具，仅靠快捷键与情景化菜单的交互方式让他们缺乏安全感。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8161-89ce-ef005f8e726b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-16T09:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom 的用户群体中，传统文档工具的使用者占比较高，我们面对着熟悉与高效，安全感与简洁的冲突，传统文档用户与新型文档用户的诉求冲突的挑战。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom 的用户群体中，传统文档工具的使用者占比较高，我们面对着熟悉与高效，安全感与简洁的冲突，传统文档用户与新型文档用户的诉求冲突的挑战。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8166-bd66-f09ec46f2e04",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Goals",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Goals",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81c8-82ba-f2b5d0b2f9e7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs 的核心目标是使普通用户和高级用户都能在 Zoom Docs 中高效完成任务，为大多数普通用户提供简单、高效且熟悉的文档编辑体验，同时满足高级用户对灵活性和高效操作的需求。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs 的核心目标是使普通用户和高级用户都能在 Zoom Docs 中高效完成任务，为大多数普通用户提供简单、高效且熟悉的文档编辑体验，同时满足高级用户对灵活性和高效操作的需求。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-8085-99a7-f433a55dac48",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T09:56:00.000Z",
+      "last_edited_time": "2025-06-16T09:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "我们希望通过设计实现：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "我们希望通过设计实现：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-8021-816f-e9ced74250fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T11:56:00.000Z",
+      "last_edited_time": "2025-06-16T11:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/d0f2c1b2-5d7d-4206-8d8d-77905dc01e9f/zoom_docs_page_editor_%E8%AE%BE%E8%AE%A1%E7%9B%AE%E6%A0%87.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=f09747e62995a0ec52e29e6ce7d4fdf8df164fad2f19689150c130ebc16f3284&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.264Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21458f61-591a-8021-816f-e9ced74250fe.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8183-b159-c3c1dc7acade",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-815d-92cf-d0e8f07e5a44",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81ee-ab24-da00d39a0615",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8105-9107-f45b2f8f3895",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81de-b688-f5db937b5bec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Solution",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Solution",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-80f7-9ba6-e0aafff4eff6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T07:46:00.000Z",
+      "last_edited_time": "2025-06-17T07:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/4e90e213-7c44-4166-ac4b-f9f89728ae98/Interaction_model_%E5%AF%BC%E5%87%BA.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=092acf3ca6440cc326f27f2017ae925667c40e4a675644b7b6601c9e812269cd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.298Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21558f61-591a-80f7-9ba6-e0aafff4eff6.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-8071-965b-dd9caf3eea42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T07:46:00.000Z",
+      "last_edited_time": "2025-06-17T07:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81ba-a99f-f366a34019a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. 丰富的文档内容类型",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. 丰富的文档内容类型",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8192-9841-feffeae0e843",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs 支持了丰富的内容元素与功能，包含基础文字元素，排版展示类，多媒体，数据展示与管理，第三方集成，自动化等。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs 支持了丰富的内容元素与功能，包含基础文字元素，排版展示类，多媒体，数据展示与管理，第三方集成，自动化等。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8133-a177-c399443f38a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/39af0879-d487-4aaf-974a-e03debe15adf/1._block_types_display.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=1b7b28372d36b69577b853fc5f1b22c2e2405f8fca5577c306fd5460d27e976d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.268Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-8133-a177-c399443f38a4.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8142-98b4-df61788d44e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8127-8c2e-c7963e2c549d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 文档场景下各阶段的交互模式",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 文档场景下各阶段的交互模式",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-810e-93ac-fec69c70b5b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-09T09:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2.1 创建元素",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2.1 创建元素",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80c9-831b-d616ce17bdf7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:38:00.000Z",
+      "last_edited_time": "2025-06-16T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-8014-a19b-c9fb00339fd6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:37:00.000Z",
+      "last_edited_time": "2025-06-16T10:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在清晰与熟悉中开始",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在清晰与熟悉中开始",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8153-bc98-c3646c889519",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "空文档状态下，用户可以从熟悉的顶部工具栏开始探索，或者从光标左侧的加号按钮开始，也可以跟随 placeholder 的提示探索快捷键",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "空文档状态下，用户可以从熟悉的顶部工具栏开始探索，或者从光标左侧的加号按钮开始，也可以跟随 placeholder 的提示探索快捷键",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8166-9ee8-fed4518b312f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/e997a6d1-7845-482a-986c-a3bd55dca8bc/2.1.1_create_from_empty.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=73d72a64e9987db1baaf0bbf1a5b4b5fd3044b1ea6c6062873feb726646bd365&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.311Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-8166-9ee8-fed4518b312f.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80cd-a796-c58f9b236f5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:43:00.000Z",
+      "last_edited_time": "2025-06-16T10:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "如果熟悉新型文档的用户不需要顶部工具栏，可以点击收起按钮隐藏",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "如果熟悉新型文档的用户不需要顶部工具栏，可以点击收起按钮隐藏",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-815b-95cb-cae4ad032201",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8163-86d0-da761c3c911c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-16T10:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "选择不同形式来表达",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "选择不同形式来表达",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80e9-916d-cac924349072",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:37:00.000Z",
+      "last_edited_time": "2025-07-11T09:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "点击顶部工具栏的固定 ”+“ 按钮，段落前的 ”+“ 按钮，或输入 “/”，都可以唤出新建内容的 Menu，选择一项以新增内容",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "点击顶部工具栏的固定 ”+“ 按钮，段落前的 ”+“ 按钮，或输入 “/”，都可以唤出新建内容的 Menu，选择一项以新增内容",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-816d-bb2e-d3bc1362afc4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/50dd0e40-34ed-431f-b311-0479efb1f1ef/2.1.2_from____button_or_slash.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=cccc728709a3cf9f45208336d2d2e248d2bc73674936baa0ec4af850d7d140f4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.443Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-816d-bb2e-d3bc1362afc4.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a5-a066-f70b48c5eeba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8122-9113-d51231276bb7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2.2 编辑已有内容",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2.2 编辑已有内容",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-801f-b526-fcc3a6ba0adb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:38:00.000Z",
+      "last_edited_time": "2025-06-16T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-8017-9311-c578eadfbfbc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:38:00.000Z",
+      "last_edited_time": "2025-07-11T09:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "方便的段落样式编辑",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "方便的段落样式编辑",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813f-9084-f6b61ffbe29e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "悬停单个 Block 时，左侧手柄上的类型名称帮助确认内容格式的一致性，色调低调以防频繁打扰；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "悬停单个 Block 时，左侧手柄上的类型名称帮助确认内容格式的一致性，色调低调以防频繁打扰；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80c0-9317-c3451757c294",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:44:00.000Z",
+      "last_edited_time": "2025-07-11T09:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "点击手柄打开 Block Menu，可以进行内容类型转换等段落级别的操作",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "点击手柄打开 Block Menu，可以进行内容类型转换等段落级别的操作",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8037-bf37-dda6911d692c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:51:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/a7cea14e-bb68-4553-91e1-fd346561b12c/2.2.2_block_actions.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=ab0293b7da71884ee13d2f9ab14e6d310529ec990b05afd1f9749ea466a365a3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.443Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21158f61-591a-8037-bf37-dda6911d692c.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80fc-b0ca-ce2045b5a65a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:38:00.000Z",
+      "last_edited_time": "2025-06-16T10:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8173-9dc1-d09c4d58c4db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "快速调整版式",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "快速调整版式",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-817f-8c98-f9f4096fb2b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "拖拽 Block 可以排序内容或组成分栏",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "拖拽 Block 可以排序内容或组成分栏",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-818c-b4bc-ed1661a9d374",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/b90b4008-81da-4721-a2b2-ed8262180e82/2.2.1_drag_block.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=a5cc1427f22187f3366e6e86151ea387fd04e51616a793615eb4e312e667e372&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.453Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-818c-b4bc-ed1661a9d374.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81cd-89da-c8c6dbc882bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80fc-8995-c44bc8dbfc07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:50:00.000Z",
+      "last_edited_time": "2025-06-16T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "情景工具栏，顺手高效",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "情景工具栏，顺手高效",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8102-be9b-c976b24bd9ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "选中各类元素时，在元素附近会出现对应的情景化工具栏，方便快速调整",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "选中各类元素时，在元素附近会出现对应的情景化工具栏，方便快速调整",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8168-9b2e-e0615b68b500",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "20258f61-591a-811e-94f1-fb4938164598",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20258f61-591a-8168-9b2e-e0615b68b500"
+          },
+          "created_time": "2025-05-29T10:40:00.000Z",
+          "last_edited_time": "2025-05-29T10:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "20258f61-591a-81c5-92dc-c16f1e66eb28",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20258f61-591a-811e-94f1-fb4938164598"
+              },
+              "created_time": "2025-05-29T10:40:00.000Z",
+              "last_edited_time": "2025-07-11T09:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/18de437d-f78b-4714-a82c-7c11f5bba269/2.2.3_other_toolbar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RCCIT6RW%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164040Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIQDRPjCYuTNNDgh7HQi5MjZw5Pn4JNRJgxOuBx9exfoyFwIgMWGo4Ihb14KQE%2FOXQou3Cngh%2BgPXxv1QX5xijkYRf%2Fcq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDOGIbCkRq40zILq7CCrcA%2FadvF0yhwRMoHeqWD3JpUIr3C0DoXaT9TOipDuO8efAD4WQw0cwUFzwe0OH31mOGTsnhIom%2B1nEkK6VrbdufiAcCjdno0CpBXl18cZ3SujhLXH6uZb8aQ1Lehg1hzPHGAKRCBHm7KssyrhTS5hdmmy0fXtRRURkZj1wZasuaJf%2B3mMoVtPAMsRYle7bNE%2FA%2BBD5DIRUEyE713Yl2HEPEKqf1b3fYZJ6AeCbEbHDod8iQ3ahV96cwiiCDCdRPNx9ZqhsCUm31q1UWAB0kq4FVN0%2BUquY5Jxn4mgJOz%2FaULOPJ1g4DusgG7uyH7EBK5hHrKDhX6qacT6Bjj0ur2eDcLwbvyZmg9zM4rOrU0AbVZlC9AUI%2Far4np7ACIp7erMAIyqjUCCu8%2BGlDEgBCIyUVpX5C7fnV6TbQdKseqsRwzOHa1RKDT6x5NibMDbGwYy5NdKUGuz%2Fk54HnAo0tjc7hLLBV%2BTAw%2FzC9NXBuDGDGNssy%2Funnd9gAwR5cFomjnTiO2RaCZKMywH18AuCtk0IAdRSDev%2BcaskzpW%2BzA5IWlSfbzBGiZqPPgHel6NpdiNK9%2FIiTur6RB3A6otqSCSFHyfxk%2Foq2VpnpdugsjNGOQ%2FQOfXRHXYYiBf92N8yMJ%2BE1MMGOqUBKILttRlCKWqpYLgiyh5URVVfqZt2byRszDvghIjzEun%2FEE2mXlHyYp%2B8qFeYwBlsAo47XAomKaOhUrKjzOJECXWb3RT3bwEJLkHm2ysiibMPeuT3juPxBrmF2MX4E13qFSIARm739t7SQ9elSctWCsWGJkGx3hEHH5XvSvEJwuF1mZ3c7uZZsvzQNREp03PqKV4csfahOGkl5gyDabt069%2F5e98T&X-Amz-Signature=3176789da5d7858ab939111ada2f019a7759fbfe798601d932d7b83f934ce288&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-14T17:40:40.160Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-81c5-92dc-c16f1e66eb28.png"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "20258f61-591a-81b5-861d-d845e8d3df6a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20258f61-591a-8168-9b2e-e0615b68b500"
+          },
+          "created_time": "2025-05-29T10:40:00.000Z",
+          "last_edited_time": "2025-05-29T10:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "20258f61-591a-81f5-b3ea-d3a7c8f66c49",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20258f61-591a-81b5-861d-d845e8d3df6a"
+              },
+              "created_time": "2025-05-29T10:40:00.000Z",
+              "last_edited_time": "2025-07-11T09:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/1552cfb7-3558-45f2-a552-b071640b1ef8/2.2.3_text_toolbar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UJQU2YFQ%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164040Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIDile8BXnoGfmk%2BZvfeskQ8HpdSjXtX2cmYlxriqf45OAiEAuQF%2BlJLXDQI6C8FE2iQE98%2BL6bZjO7eQDAgKHlJYs6Yq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDBFCfcR4%2FKhLEqL%2BNCrcAxHG5d6PlGQ82kEhwhnNyLqVsAJ8titRv5Ek62Zgj%2Btw5l65xNmV4CC6UbgiC2e%2FZJ%2BKOyq5sCENEa613Rwdlvj5v8GtFss7joULQPJlENVvDxqYHT2oFOLC%2B3XJub%2Fj3Kh4n6VPayxtr12r6IpfH8BwTHnbMJwJ8ty5yu3u0xREqQfOUI0Kp87hJFfWD3f4zUicbgpQn%2BU4cg%2FaEswVDiNnc32DTgeadgQ66kazZDekNdhYiOyCMMYvhxdrsMqtO4Y72N0NLOiczsuqJBQ8FiKFXrh0wCodRUfdK5CEDwO3Bko7P%2FkXN8SD8c0lvdMlnMCmg1ZZ1%2FMep26YD9kVlL7FzQwKo%2BWhU%2BMDmqRiOAxs8R43Dc8m%2Fp2462OL3IattyjBr7U7vNlbS9%2BQB%2F235qsC07dlxH1LKLoRwQJyo0d2IrUgiAVmajEd6elH9fEWg86Kw90%2BhYkm8jqVu%2BuwDnwrT4Ofg%2BHOk6gRuV1egc%2BvVpnOJvOfamKZTivChZzRzZt0J6be8KncRoC9uWcvDTZFWhdcr8Qlh%2BMl0SQBcYmZbwakc6Qn93kFo6zc7V46UvF0UgViatzKSWC%2FR6rhtBTUqNgrmQar7XNVFHNrJKZhga2qN07%2F%2FVg4r9rGMLKF1MMGOqUBKlg8qt2wjmIH4%2B08vC9gj0x8AduRpIDVSz1iLnK%2F0zYhiORXxDpyYGZcX5QyR4d1rFfNAvQC3pdzcJeb0GPrDKCvghcEj84hgV654R4NKmiA5%2FlvfhWHXH9U8Aj2imKh8CW%2FVJ29c5UsyfTaSvdhVv0GH8fNhIXrsxM%2Fw%2BgBRul38nTLLxjlWuxgZXoPHOjCtW6IFZp80Uu6Us0dNwq2I9Df66vH&X-Amz-Signature=505074aab105338b0cff183354aba69ad223b3013c0aaf1cc17fcda2ae030f96&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-14T17:40:40.641Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-81f5-b3ea-d3a7c8f66c49.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a4-ab2e-c093cad0c285",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81de-87d4-d7e58e981bda",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2.3 协作",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2.3 协作",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-8046-9941-e48831db1966",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T09:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "当多人协作编辑或阅读同一篇文档时，我们有时会有如下诉求：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "当多人协作编辑或阅读同一篇文档时，我们有时会有如下诉求：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8136-8014-f0c15396b61e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“想知道谁也同时在看这篇文档”——",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“想知道谁也同时在看这篇文档”——",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "文档顶部头像显示当前文档的访问者；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "文档顶部头像显示当前文档的访问者；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-819a-a2c5-f83e5ea836ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“想知道他人在编辑哪个部分，这样我可以先去编辑其他段落”——",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“想知道他人在编辑哪个部分，这样我可以先去编辑其他段落”——",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "点击顶部头像跳转到对应位置，段落左侧显示正在编辑该段的协作者；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "点击顶部头像跳转到对应位置，段落左侧显示正在编辑该段的协作者；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81ae-9576-de04c43b7259",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“想看到他人正在写什么，像面对面讨论那样实时”——",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“想看到他人正在写什么，像面对面讨论那样实时”——",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "协作者的光标实时可见。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "协作者的光标实时可见。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-802c-aef0-d920a8dfe32d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:39:00.000Z",
+      "last_edited_time": "2025-06-16T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81d4-b8fb-fd56af565dcc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/876af515-88ae-4f8b-a9da-258ed82f272a/2.3_real-time_collaboration.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=47d3070ae151f0e2c568d44fd05820a1e53482433001272e18cf633dcd1cfa62&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.476Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-81d4-b8fb-fd56af565dcc.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8129-97fd-e74ce829ded0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21458f61-591a-80ab-a01b-fad1e0aad78a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-16T10:39:00.000Z",
+      "last_edited_time": "2025-06-16T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "会议中的流畅协作",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "会议中的流畅协作",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81b4-9867-e478e55308d1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-16T10:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "头像与光标的实时动态也运用到了会议中的文档共享，更好的支持了同步讨论和头脑风暴等场景的顺畅共创",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "头像与光标的实时动态也运用到了会议中的文档共享，更好的支持了同步讨论和头脑风暴等场景的顺畅共创",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-805a-8803-f0dac63553dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-10T09:38:00.000Z",
+      "last_edited_time": "2025-06-10T09:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/907c8a99-d12d-4bfd-9593-02cdd3a99614/e7751857-cc06-42e5-bb25-9c217c48a5ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=231df5b7dfbe19a4d5a36661087e94cbb8ff5277ecc9908d0fd85529536b1d0d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.588Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20e58f61-591a-805a-8803-f0dac63553dc.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81d4-8d4c-d2a2a19204b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-14T09:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-815c-95cb-dc2d98ea7839",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8129-8616-dea87321369f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "一些小细节",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一些小细节",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a4-ba5c-ce739fea333a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. 对于长文档，如何快速调整内容顺序？",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. 对于长文档，如何快速调整内容顺序？",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8160-b457-e97bc7d525ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "通过拖拽 outline 中的标题，快速调整各标题及内容顺序",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "通过拖拽 outline 中的标题，快速调整各标题及内容顺序",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8141-a934-d2a27d6ad7d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-09T09:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/7a92ed25-dfb2-465b-b924-fd09b0b3beb1/3.3_outline_adjust.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=a1a1daee14ac0e47fa91d57e6a37b77e4f34361df5276581f5d1de80750975b7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.579Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-8141-a934-d2a27d6ad7d2.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20d58f61-591a-80f9-a497-db66e853eb90",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-09T09:29:00.000Z",
+      "last_edited_time": "2025-06-09T09:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8128-bf70-cbe646be1061",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-13T11:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 简单 or 直观？工具栏方案的权衡",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 简单 or 直观？工具栏方案的权衡",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8134-8dd8-fefda240904f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-16T10:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "传统文档用户对工具栏的稳定和直观的诉求，与新型文档用户对界面元素简洁的诉求有冲突。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "传统文档用户对工具栏的稳定和直观的诉求，与新型文档用户对界面元素简洁的诉求有冲突。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-819a-bd74-f292166f7152",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "经过多个方案对比讨论，我们做了用户测试、访谈，选择了“默认展示顶部工具栏，不需要的用户可手动收起，同时在选择对应元素时会在附近出现情景工具栏”的方向，优先满足了传统文档用户对新工具的安全感，同时让新型文档工具的用户可以选择更简洁的界面，也保障了各类场景下有最短路径的交互方式。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "经过多个方案对比讨论，我们做了用户测试、访谈，选择了“默认展示顶部工具栏，不需要的用户可手动收起，同时在选择对应元素时会在附近出现情景工具栏”的方向，优先满足了传统文档用户对新工具的安全感，同时让新型文档工具的用户可以选择更简洁的界面，也保障了各类场景下有最短路径的交互方式。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813f-a1f8-ca9108a41bd0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "20258f61-591a-814d-9dca-e793fa9dcdab",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20258f61-591a-813f-a1f8-ca9108a41bd0"
+          },
+          "created_time": "2025-05-29T10:40:00.000Z",
+          "last_edited_time": "2025-05-29T10:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "20258f61-591a-8174-a1da-ea14bc628c15",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20258f61-591a-814d-9dca-e793fa9dcdab"
+              },
+              "created_time": "2025-05-29T10:40:00.000Z",
+              "last_edited_time": "2025-07-11T09:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/cefd8f5a-f5a6-49e2-a59d-51999a29223c/3.1_toolbar_design.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VVCT3XM4%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164042Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCICRLPkiE%2BaBhF8mlt9JSUns6xs8VYyXtYSyll46FcGEZAiEA8tOWEoG0iyG9MGLj0UV4yR%2BxMpcnmIq4WNzlYGklncQq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDEK5LGJiR3hzmjmXuircA5z%2B%2Fxs5WH46WOxQ8UKm8ARf50dkpZz4WtdSutD7QlyMYxRjJZgnYZ5K0BGIO9CVbRG1ke733dptIIYopfTFltvXoOEIljfNk401FjEsVJ61wy6CZDwD4Ujc%2FTkvmwR1Wst1IR%2BRML%2FTt9aAjcAPvRu6QyqA5RyUSosO8xMVecvMqxQTeP5AD8KsxGCEvYx8ZwVeiye4OLDxY9TEXKWiA5%2FJsTEG4BO1J5pQrhNJTRJK5qcw%2Fm9dGSsK3btIdPsXh1CTU6Q8v90IBHZwQfeZXFSDWVRAbWUEfhHW5AmVK8Y3nIoNtZo4HTOcab0%2FDMU0zQUKlMrQASaRFaQvLG5FgQvDIU8Zon3Lo4WbmfcbbpPnZt%2B%2BL0dhVI%2FTYBN5ILqhF2%2Ft6y2ktZrAGOxzU%2FpzSavVpZ3qvkzONJHb4YbZvg2FOh%2BmZ8rq2XKtue2qez8G5o6WxHvMeyuVi2VagJOmv%2B9r%2FJF6Om50n1SiR0QbuyzSl38AhgmKoL7o%2FuX3mdYzyW%2F5%2BWkoUTdlBXv05SL2qVZ6uUQ3y4ajASBQ%2B6xp%2FuBovHpByWMwcuGm3iqaNLuwh5em2E2g2nkUMRRLGnpEZE0aQ36vC%2BqqN7U2lQ3BL2ScyCHZhgfFVLBw8sNQMKmF1MMGOqUBkecD3%2FOwflRYMWp9Qaa582Qw%2BMY31kViwk9BpbXrzREq4m4Qznj3uxw6%2BRY1pI4MXU30u%2FL6%2FyeG5XfzwFtcHxgLZ1MR%2FwzTDYk0IsxrBPQ3mYbtLYXLTQBlGRTHOZefhLQeM7lpyu5Q1LN7zonDu4J3aazIqHbgDk1r6F3t8LSgPcAYjRvqdOaMcK1Ah7wVFTYnYuMbbO79skFbhJIqMxpTmIor&X-Amz-Signature=36faa917c3440be9fa4f2863ddc75229af2dc6d99b5f75cbd068ba860642d970&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-14T17:40:42.139Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-8174-a1da-ea14bc628c15.png"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "20258f61-591a-81f6-9a30-ee915cbcf72b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20258f61-591a-813f-a1f8-ca9108a41bd0"
+          },
+          "created_time": "2025-05-29T10:40:00.000Z",
+          "last_edited_time": "2025-05-29T10:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "20258f61-591a-81f2-8365-fb1ca90af74d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20258f61-591a-81f6-9a30-ee915cbcf72b"
+              },
+              "created_time": "2025-05-29T10:40:00.000Z",
+              "last_edited_time": "2025-07-11T09:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/96b42e9e-d3a5-4eb2-a4e8-d138aefdc034/3.1.2_hide_top_toolbar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466363X2FCR%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164042Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIAgOUaCeADOe%2F1apJKfFuuPYnz2xf8pkUHiiMGpv9quTAiEAlGhHQX1Pl5qJNPO6tKKtBtvOH1bzYKEJAum16NCOFjoq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDGdgRg1wye0jUsnwfyrcA66CfERdHG9B2nzBX8ofTK2bf8vlKUikj08FFr6O4%2FdYGafXQ8myJ046c3zHuR7XGfCCCYYcMCKTqXzCPxRaiJfr8moT81zaAT47656tPMApsRESJdSdgxgk9C4NKQn6F6%2BF6erObejlKMATWNTs7xsGutbBf0Hi%2BEx7Q%2BNIkIOIypLc8aYs8583SXDExB1WfzPN65UnuMmgcITvNbm9N2yQyl1ygAPiKMH5%2Fbs5gxP652VavLdERMZf%2BwJzy8pPAOguF73kDR7eDqXOC2ImiuUgQ0JzLuKIu8wJYlmf3UpOBIhchEUMm73LY8fODA7QIMMlDdCPa9jMft5hTA88xVdTNIhhN2uBbCBndnPykqaVBopUXwSYyd61%2BDJYJdxFS4AT6JNSYdOE3CutaKthB17QyVv9l4PJ3BNQ8BdhLEQmIYy4ac4pa%2BB31%2Ffg1QPoQtZejNV6N2S3M93Etv4oPpU%2FQUMiST%2B51MJHnQ%2F92N6nH46kiKMat9YkfHYoLwnDlbLFNo5J7dLmdzY8I%2BaRHWWkK01ULA8jmeJ3K4XQhXtjkN8Ctl%2FRzuy1Il5ptkugL1Iuc98rBSdowlTfies9vzwf7hdR3patb8Nf6S1jQ7R%2B2V5yPX%2BAlH7Qrxp9MPOE1MMGOqUBrRIlYJu%2Fwn%2BfqKUH0PLgM5o7ormIHLRRPc8hCtKRg6ziF0DwnGu3u%2BOS%2FKHj3uf1ba74RZ05IPE25YAjpzl5x21oCAIiJOmMMSppKw6bR%2FH%2Fx6AMi7VL4tO6YGHbZt8InwERmV4UJWUn7sAg9FUmwoRtDwDgAlCn9Uz8R1Jbi1qIxaG9PVabYEIJNPJPCmoEOiArfuJs2vV7B%2FfoZ9hwsKlQRsx8&X-Amz-Signature=fc5f1f2d59401bb06cf0aa758df877e5258b77129eca5cd010782c4c00792c3a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-14T17:40:42.556Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-81f2-8365-fb1ca90af74d.png"
+              }
+            },
+            {
+              "object": "block",
+              "id": "20258f61-591a-8125-a7b3-e088dce6311f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20258f61-591a-81f6-9a30-ee915cbcf72b"
+              },
+              "created_time": "2025-05-29T10:40:00.000Z",
+              "last_edited_time": "2025-05-29T10:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81f6-981f-cd5185c33164",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8138-a10d-edd876dddfbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. 高效 or 清晰？菜单交互设计",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. 高效 or 清晰？菜单交互设计",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8106-b786-e782c8bd98cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在菜单内的交互设计中，尝试包容从熟悉直观到极简高效的多方面诉求：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在菜单内的交互设计中，尝试包容从熟悉直观到极简高效的多方面诉求：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81ca-a9f9-c33c4a5f2bb4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "把最简单易懂且常用的内容类型用类似宫格的按钮排列，让用户能快速触达目标，同时节省空间，提升展示效率，让新用户更容易快速把握文档内的内容类型；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "把最简单易懂且常用的内容类型用类似宫格的按钮排列，让用户能快速触达目标，同时节省空间，提升展示效率，让新用户更容易快速把握文档内的内容类型；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-816a-b4e7-e8bb73431377",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "其他相对不高频的类型，或没有那么熟悉的内容类型，需要一些文字解释，以 Icon+Text 的方式展示，更容易理解；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "其他相对不高频的类型，或没有那么熟悉的内容类型，需要一些文字解释，以 Icon+Text 的方式展示，更容易理解；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81d4-9e14-cc36110dcefa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "高级用户可以输入关键词搜索，快速得到目标类型；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "高级用户可以输入关键词搜索，快速得到目标类型；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8179-8a72-c4bd1032b8a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8187-a76e-f2bae1656eb9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/5b9a9b8b-1368-43e5-8bed-54f64d4ac2f5/3.2_action_menu_group.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RB3AZKH3%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164038Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJHMEUCIET3UmMlgJYyiBxd5wsO87Br2PlZF6TPnodEB%2FQ88kjdAiEAy6JfLY69jdHEViLaJJCUOgcaUv7XlODS2xC%2F%2BcKehocq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDPcKDpszcJAb6Y5buSrcA8sI1EzWNM6LB3yqU3hI5rpJvMqsnwVMTx2prFbyGbhxQHnAwaj0DCCCFSbNRIKNbIISPP99vpV6joQmeRlzbRGpEg6TtPpoclWhyghy6wOrXhtzc9Bkt5QFswUNbHFJeDYxIHjyN83ByBM1Ag3WrfJBPslGdJp3gqfsORLQv4rRhYmgqvMExWdbr%2Bktimkig38vX9jdPLihQeDFAdmJYfjoWrbgU33lTHFV0b2w%2F5yQ%2BHKDomH6Rb8OF5UMZwIENmggtMPScP1mpw%2BSB3XASUZeuA6YJLawz9A1dH5%2BHTiTqwgHdGn7cyecc%2FSjHB05%2FHXylc5VDAMMD%2Bfqy2k%2Ba6RGaH99Fqww06yUPRhfz6FVte7H1cHkcjrm9oXq2c6qb%2Baetk8vo4gqJUBLJUIn6LPUkX5tmj2zqRIr8GkVnEKj5PKDqkDYUe5EVsIA99DH6CG1vh2KezPsZisjuazJ7g5pWGT6HD8Jag%2FQVMCx2dUNLTF9dQegRUw3j%2FDvC3gkFe0y311MK56SA06S4I1VLWq76iSa9vlxoKS2FBvcKcksXmFfe4EZ0dDs%2FEqpeQ6MXJHnlC4ulKrAOkWzIkKGnOBoepmUJMIaX9IAUriwJabcDtO%2FAQ9vGH7edGUJMOuE1MMGOqUBt5081Z%2BCDrD5H%2BPcXczoSqc0wfXpwT1LBH3HWkEG22rgEhTpXOJWv4iUHqS5TX4rae0%2FdnT2%2BvzPdIHm2MQYrKr7EWNbrzTNx%2BurVyV9VeOPA1D3UjviJTNbRv8hGski10505udK8ITEEiT2rtJP65rIUhr1SMMoTmr1soMTkNkCI86aNtjne5eijIHGPYdu8JxhYaXJDoszA6UmgvJqB6KdYdND&X-Amz-Signature=bd59debd6cbe63c137e2a02a3791bd826439b8ff41fd3af0921fda153c7bfa3d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:38.591Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-20258f61-591a-8187-a76e-f2bae1656eb9.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-819d-82db-c493bcf4c745",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-05-29T10:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8156-ae99-ea43e4edec3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-11T09:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "作为新型文档编辑器，产品设计过程涉及到的场景与细节非常多，从第一次内部上线到正式上线的几个月里，我们每周都在用户反馈中不断反思、迭代、验证，以上案例是众多设计权衡中的一小部分。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "作为新型文档编辑器，产品设计过程涉及到的场景与细节非常多，从第一次内部上线到正式上线的几个月里，我们每周都在用户反馈中不断反思、迭代、验证，以上案例是众多设计权衡中的一小部分。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80f1-b3d6-f29fffea8c23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:55:00.000Z",
+      "last_edited_time": "2025-06-13T11:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8199-b4ef-fd03cdbbbcdf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-816a-bf3b-d3476e849425",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813d-9be1-eeac93a015c4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a7-8a3d-ddb94f2db75a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Results",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Results",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-812c-81bc-c5db24577cf6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-05-29T10:40:00.000Z",
+      "last_edited_time": "2025-07-04T10:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs 于 2024 年 9 月正式对外发布，从 Zoom → Zoom Docs 渗透率达 96%，目前 MAU 近百万，设计体验细节常被 Zoom 团队内部作为优秀体验的讨论案例，并得到了众多喜爱。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs 于 2024 年 9 月正式对外发布，从 Zoom → Zoom Docs 渗透率达 96%，目前 MAU 近百万，设计体验细节常被 Zoom 团队内部作为优秀体验的讨论案例，并得到了众多喜爱。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-80ad-988b-e2503683a9d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-07-11T12:30:00.000Z",
+      "last_edited_time": "2025-07-11T12:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/0c01c0ff-1237-4083-959a-b726301bb4f2/Introducing_Zoom_Docs_with_AI_Companion_7.11.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466USZKLK7X%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164039Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJGMEQCIAWsHEDPOkYGHYk2HgZMzOSZctCBXSK6kNEEq8w9JU6gAiALAkJ%2BrMQYzDDRObYfX47vgOBZoeAKuPuFyb1rXi%2Bm5Sr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMIJDILNe0oPFVzdzZKtwDa9%2BBGd1KtpR7jt3ApbIMlXWBWFOfbSfaAtgBZLcRQeXYrZQIk6EzRv44B4GZoRBHsnEclEA%2B9i9LF%2Fxx9%2BPNepg074PStSN8ha6sQh7sPF%2BMF5Cs4vCQrDH%2BIyayBo3W2IH4vXAN4JmLnBowTEUVYv%2B%2FpeWI%2FuBu75BBNpAF8A1ivsGACCNxnyRc5oTxsa4dcRzM0rqA999bHGT52jrZF75FCZBBOAsOPGMaNk7tVgBkxatHvpecedG92anG7yFG3%2BTDEH1VSWxP9SIfaAfZfQQs4b1HpoiH02sHdBPbm1YX5m3wpyikYVDYqrvW61QpY1Dh5RrKWKQeUUf5w%2BhUHUb7J7G11wceAaJDGVfP4VVbkj%2BqE2TAUNImM4jzhbHCx581kX54jwkLDKdrN8SstyNRMibuv%2BOHe0LyHxzbgvFYfs9JOPa3K7LOPPIwTMDiV2Ius5PfiKHKtzHvjaV%2FEG%2Fhkw%2B%2FQDU5KM%2BbhHzi4uEF0vjZMrxqQsxfrWzxBxLgjXmXXhxi2g4nx3CGOR%2F2DaqgwOlcpfcrLG61lebxkbD1vKl%2B086il11qqtq%2B0g6hnr0H2CYm8tZW8OR0RwVLIXZl1t6PdLI3NpNgO1%2FBPkx3v3cU3ytqsdQoCIkwlYXUwwY6pgHSfp0dclINHSxQq9GJKJo%2Bj6LMHNbIN0aPuP%2F1%2BAISYpjMzxm4v%2B0HxO8R7o38xMRMn9BxoPcQ6KgBIpK3RTDwXakp2gMF2iB7mONRFiioB32pjaiWVFnGLxQWQZ%2FW%2BnW6FuiV0oGDVdGf9gmWVHO8LA5EHtCyGF3RHC%2BgcyYwzLEGjcSMtUH%2FZRyetGdbKtPsrXYN8yskSPUDjMalq19tO4qPtS%2FG&X-Amz-Signature=05a064711a51238954a565b6152faf2fd72a8c4a3d73ba3c272db2c398002405&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:39.124Z"
+        },
+        "localPath": "/projects/videos/20258f61-591a-807d-8f90-dd3933d92ab9-22d58f61-591a-80ad-988b-e2503683a9d6-Introducing_Zoom_Docs_with_AI_Companion_7.11.mp4"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8098-8e9e-efaa20b31ff6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:12:00.000Z",
+      "last_edited_time": "2025-06-13T11:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-807e-bea4-fc8fc7492438",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:12:00.000Z",
+      "last_edited_time": "2025-06-13T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "来自 Atlassian 设计团队的认可：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "来自 Atlassian 设计团队的认可：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8081-92b3-e0cfc58d33fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:14:00.000Z",
+      "last_edited_time": "2025-06-13T11:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/e5086068-721c-44d7-97a8-aa25e3d82625/compliment-atlassion_design_leader.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466USZKLK7X%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164039Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJGMEQCIAWsHEDPOkYGHYk2HgZMzOSZctCBXSK6kNEEq8w9JU6gAiALAkJ%2BrMQYzDDRObYfX47vgOBZoeAKuPuFyb1rXi%2Bm5Sr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMIJDILNe0oPFVzdzZKtwDa9%2BBGd1KtpR7jt3ApbIMlXWBWFOfbSfaAtgBZLcRQeXYrZQIk6EzRv44B4GZoRBHsnEclEA%2B9i9LF%2Fxx9%2BPNepg074PStSN8ha6sQh7sPF%2BMF5Cs4vCQrDH%2BIyayBo3W2IH4vXAN4JmLnBowTEUVYv%2B%2FpeWI%2FuBu75BBNpAF8A1ivsGACCNxnyRc5oTxsa4dcRzM0rqA999bHGT52jrZF75FCZBBOAsOPGMaNk7tVgBkxatHvpecedG92anG7yFG3%2BTDEH1VSWxP9SIfaAfZfQQs4b1HpoiH02sHdBPbm1YX5m3wpyikYVDYqrvW61QpY1Dh5RrKWKQeUUf5w%2BhUHUb7J7G11wceAaJDGVfP4VVbkj%2BqE2TAUNImM4jzhbHCx581kX54jwkLDKdrN8SstyNRMibuv%2BOHe0LyHxzbgvFYfs9JOPa3K7LOPPIwTMDiV2Ius5PfiKHKtzHvjaV%2FEG%2Fhkw%2B%2FQDU5KM%2BbhHzi4uEF0vjZMrxqQsxfrWzxBxLgjXmXXhxi2g4nx3CGOR%2F2DaqgwOlcpfcrLG61lebxkbD1vKl%2B086il11qqtq%2B0g6hnr0H2CYm8tZW8OR0RwVLIXZl1t6PdLI3NpNgO1%2FBPkx3v3cU3ytqsdQoCIkwlYXUwwY6pgHSfp0dclINHSxQq9GJKJo%2Bj6LMHNbIN0aPuP%2F1%2BAISYpjMzxm4v%2B0HxO8R7o38xMRMn9BxoPcQ6KgBIpK3RTDwXakp2gMF2iB7mONRFiioB32pjaiWVFnGLxQWQZ%2FW%2BnW6FuiV0oGDVdGf9gmWVHO8LA5EHtCyGF3RHC%2BgcyYwzLEGjcSMtUH%2FZRyetGdbKtPsrXYN8yskSPUDjMalq19tO4qPtS%2FG&X-Amz-Signature=06f2d0ab3fbedd76a210a3b42d1322afbd3e45d709a561f63abdb8e4923d3748&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:39.127Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21158f61-591a-8081-92b3-e0cfc58d33fd.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8089-b5f3-c48d95bc4bd1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:14:00.000Z",
+      "last_edited_time": "2025-06-13T11:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-803a-87b5-f7af7f461155",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-10T11:15:00.000Z",
+      "last_edited_time": "2025-06-16T10:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "一位 Reddit 网友的赞美：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一位 Reddit 网友的赞美：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80f6-b3b8-d50af995c8d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:15:00.000Z",
+      "last_edited_time": "2025-06-13T11:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/619c0ffa-cbec-44f9-8618-e9ad64285028/compliment-comment_from_reddit.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466USZKLK7X%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164039Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJGMEQCIAWsHEDPOkYGHYk2HgZMzOSZctCBXSK6kNEEq8w9JU6gAiALAkJ%2BrMQYzDDRObYfX47vgOBZoeAKuPuFyb1rXi%2Bm5Sr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMIJDILNe0oPFVzdzZKtwDa9%2BBGd1KtpR7jt3ApbIMlXWBWFOfbSfaAtgBZLcRQeXYrZQIk6EzRv44B4GZoRBHsnEclEA%2B9i9LF%2Fxx9%2BPNepg074PStSN8ha6sQh7sPF%2BMF5Cs4vCQrDH%2BIyayBo3W2IH4vXAN4JmLnBowTEUVYv%2B%2FpeWI%2FuBu75BBNpAF8A1ivsGACCNxnyRc5oTxsa4dcRzM0rqA999bHGT52jrZF75FCZBBOAsOPGMaNk7tVgBkxatHvpecedG92anG7yFG3%2BTDEH1VSWxP9SIfaAfZfQQs4b1HpoiH02sHdBPbm1YX5m3wpyikYVDYqrvW61QpY1Dh5RrKWKQeUUf5w%2BhUHUb7J7G11wceAaJDGVfP4VVbkj%2BqE2TAUNImM4jzhbHCx581kX54jwkLDKdrN8SstyNRMibuv%2BOHe0LyHxzbgvFYfs9JOPa3K7LOPPIwTMDiV2Ius5PfiKHKtzHvjaV%2FEG%2Fhkw%2B%2FQDU5KM%2BbhHzi4uEF0vjZMrxqQsxfrWzxBxLgjXmXXhxi2g4nx3CGOR%2F2DaqgwOlcpfcrLG61lebxkbD1vKl%2B086il11qqtq%2B0g6hnr0H2CYm8tZW8OR0RwVLIXZl1t6PdLI3NpNgO1%2FBPkx3v3cU3ytqsdQoCIkwlYXUwwY6pgHSfp0dclINHSxQq9GJKJo%2Bj6LMHNbIN0aPuP%2F1%2BAISYpjMzxm4v%2B0HxO8R7o38xMRMn9BxoPcQ6KgBIpK3RTDwXakp2gMF2iB7mONRFiioB32pjaiWVFnGLxQWQZ%2FW%2BnW6FuiV0oGDVdGf9gmWVHO8LA5EHtCyGF3RHC%2BgcyYwzLEGjcSMtUH%2FZRyetGdbKtPsrXYN8yskSPUDjMalq19tO4qPtS%2FG&X-Amz-Signature=5d28da36e551d662cfff2418992840f1c6f0589f680de609fc2b0ebac8cacb37&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:39.167Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21158f61-591a-80f6-b3b8-d50af995c8d7.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-803e-b1a5-cd9412837988",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:15:00.000Z",
+      "last_edited_time": "2025-06-13T11:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-8095-aa4e-f3694166a0be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-10T11:07:00.000Z",
+      "last_edited_time": "2025-06-13T11:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "以及更多……",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "以及更多……",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-807a-b502-d9e84295f514",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:19:00.000Z",
+      "last_edited_time": "2025-06-13T11:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-804c-8396-fa65aaeafa66",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:18:00.000Z",
+      "last_edited_time": "2025-06-13T11:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/cdd3a772-d788-4a0b-b8bc-05bfb91ffd4a/compliment-more.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466USZKLK7X%2F20250714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250714T164039Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJGMEQCIAWsHEDPOkYGHYk2HgZMzOSZctCBXSK6kNEEq8w9JU6gAiALAkJ%2BrMQYzDDRObYfX47vgOBZoeAKuPuFyb1rXi%2Bm5Sr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMIJDILNe0oPFVzdzZKtwDa9%2BBGd1KtpR7jt3ApbIMlXWBWFOfbSfaAtgBZLcRQeXYrZQIk6EzRv44B4GZoRBHsnEclEA%2B9i9LF%2Fxx9%2BPNepg074PStSN8ha6sQh7sPF%2BMF5Cs4vCQrDH%2BIyayBo3W2IH4vXAN4JmLnBowTEUVYv%2B%2FpeWI%2FuBu75BBNpAF8A1ivsGACCNxnyRc5oTxsa4dcRzM0rqA999bHGT52jrZF75FCZBBOAsOPGMaNk7tVgBkxatHvpecedG92anG7yFG3%2BTDEH1VSWxP9SIfaAfZfQQs4b1HpoiH02sHdBPbm1YX5m3wpyikYVDYqrvW61QpY1Dh5RrKWKQeUUf5w%2BhUHUb7J7G11wceAaJDGVfP4VVbkj%2BqE2TAUNImM4jzhbHCx581kX54jwkLDKdrN8SstyNRMibuv%2BOHe0LyHxzbgvFYfs9JOPa3K7LOPPIwTMDiV2Ius5PfiKHKtzHvjaV%2FEG%2Fhkw%2B%2FQDU5KM%2BbhHzi4uEF0vjZMrxqQsxfrWzxBxLgjXmXXhxi2g4nx3CGOR%2F2DaqgwOlcpfcrLG61lebxkbD1vKl%2B086il11qqtq%2B0g6hnr0H2CYm8tZW8OR0RwVLIXZl1t6PdLI3NpNgO1%2FBPkx3v3cU3ytqsdQoCIkwlYXUwwY6pgHSfp0dclINHSxQq9GJKJo%2Bj6LMHNbIN0aPuP%2F1%2BAISYpjMzxm4v%2B0HxO8R7o38xMRMn9BxoPcQ6KgBIpK3RTDwXakp2gMF2iB7mONRFiioB32pjaiWVFnGLxQWQZ%2FW%2BnW6FuiV0oGDVdGf9gmWVHO8LA5EHtCyGF3RHC%2BgcyYwzLEGjcSMtUH%2FZRyetGdbKtPsrXYN8yskSPUDjMalq19tO4qPtS%2FG&X-Amz-Signature=7a61c90f5cd894473f446e373704b8748302478faf5827cf5318a5848c91545a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-14T17:40:39.138Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-807d-8f90-dd3933d92ab9-21158f61-591a-804c-8396-fa65aaeafa66.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-804a-b001-c73e1d4870ac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:17:00.000Z",
+      "last_edited_time": "2025-06-13T11:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-800b-ac85-ca4cb0e66475",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T11:16:00.000Z",
+      "last_edited_time": "2025-06-13T11:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20d58f61-591a-8052-a8aa-d86c6353dbac",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-09T09:34:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20d58f61-591a-8020-9b51-de56204e6700",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-09T09:00:00.000Z",
+      "last_edited_time": "2025-06-09T09:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20d58f61-591a-800c-aa1b-fdb63c9ffb5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-09T09:34:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20d58f61-591a-803d-97c1-e1421afcbe2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-09T09:34:00.000Z",
+      "last_edited_time": "2025-06-09T09:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80cb-b253-ee4eda5ec559",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T12:05:00.000Z",
+      "last_edited_time": "2025-06-13T12:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Related links",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Related links",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-80dd-88cc-e8d2b1868cae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T09:36:00.000Z",
+      "last_edited_time": "2025-07-07T15:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.zoom.com/en/products/collaborative-docs/"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-8034-bef5-e92115445da9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T09:36:00.000Z",
+      "last_edited_time": "2025-06-17T09:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.zoom.com/en/blog/zoom-docs-ai-powered-adaptive-workspace/"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-800e-9e38-e8712191f2a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-17T09:35:00.000Z",
+      "last_edited_time": "2025-07-04T10:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.youtube.com/watch?v=-HhuKL1Q40E"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80aa-85db-cbf27a2f2d26",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-807d-8f90-dd3933d92ab9"
+      },
+      "created_time": "2025-06-13T12:05:00.000Z",
+      "last_edited_time": "2025-06-13T12:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  ],
+  "synced_at": "2025-07-14T16:40:51.879Z",
+  "language": "zh",
+  "sourceProjectId": "20258f61-591a-807d-8f90-dd3933d92ab9"
+}

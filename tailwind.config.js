@@ -5,7 +5,13 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {}, // 中文注释: 扩展默认主题
+    extend: {
+      colors: {
+        gray: {
+          800: 'rgba(50, 51, 53, 0.85)',
+        },
+      },
+    }, // 中文注释: 扩展默认主题
   },
   plugins: [], // 中文注释: 插件配置
 }; 

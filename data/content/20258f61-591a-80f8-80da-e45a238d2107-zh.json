@@ -1,0 +1,3358 @@
+{
+  "page": {
+    "object": "page",
+    "id": "20258f61-591a-80f8-80da-e45a238d2107",
+    "created_time": "2025-05-29T10:39:00.000Z",
+    "last_edited_time": "2025-07-16T10:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+    },
+    "cover": {
+      "type": "file",
+      "file": {
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/9acb2df9-bcd6-4825-86b2-2dcb60d6492b/Frame_6266823.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TJBTDWSS%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIGKHj0Y0YGpQtrbOmUeyJeRcFPkpvW5PPYkFQ2hnFSFYAiAjb%2FsxeDobnInciUuV9wfPlski4YVTy494H%2BmuQo76Uir%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMl9d3qYlKn5AutQcdKtwDfRb3limRKDaf17%2FECYScIO1TWRAAVq2wAFU5rUSmCJ7G36COfSwtJA2APuyHnojnWvXPndsjFVDaMGLlLWuWIaPNqS3XyiLdY6L4bzgCWcyDY7i9zoNp%2BNgTRUwgW3ibywLxb7nEJARbVP%2FtPlXEYWT1kII6hl0ArrQ8%2FpPkJYGhLTCWP32O4MvrWqNPucq8P8k5YjnZrGrG4o%2FP4ZjxKzJ6YYkWkUiBZDlN3acNUulVY4VfZC3NG%2FfUyAh2vfaVh9o09cZm7FfXiB3A2lOJWGMYsnKrvVuxTNq69n81DsIkda8bOfmXZd4itk0kpTr%2BHJ12XwF%2FA%2FVA9lRLSilj%2Fx5n%2BLj9bHxW8XmUBBDBwTkFwUPolGs1CsOnmFoqNKAS2j36qBLz5XAChvUx1RAf5M1aj5gXareRGouc2yoc0XJd6HpWA3P2u%2B6YG2IKewVfX2uG9U0jyvnPjcevKu7a0ZDG3wXSqyuUEuut9AeqkmY1YHRJ8Tq6orviRdFaSNHlU3Jh3PFTCq9x1ew%2FeTvzi2hn7ixKL2%2BtuQf7y4QQ66NDiRSfvWxcPmLsGUvRDEalbvTkB1gDE5%2FiGgwlxJJm0FhWBKZuhkY1sQOli1QXnTlcVAZuzHJ9KZDcdngw1ufdwwY6pgG4e5hNCP%2Bq5ISWklp3nu1mLDswodGhFvooRyXuFyLy8VWdL6CLHHu9chzhGEowhfvNB%2BrBMOBI2%2B3LDJiZW8RXjrY0Q2z%2Fm7icQfs9qKStgoV52Rl%2BD2nFIn5RJyRquB35aSN%2FU3nkDmElho9rvxHO4HdWWXcZp2%2F2GkHdTh9UevkQLPu266A27NLBf%2BIx4gfQ0uRxabpzsRs6FN%2BWrIpq%2FSnrZJrQ&X-Amz-Signature=8ffd669fd93f71766bf127deeefec91d9c3e89d794ddfd1269c92dff1a8f5bbc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "expiry_time": "2025-07-16T11:19:50.874Z"
+      }
+    },
+    "icon": {
+      "type": "emoji",
+      "emoji": "🎙️"
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "20258f61-591a-80a8-bd47-d569527b70ef"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Cover": {
+        "id": "%3D_nM",
+        "type": "files",
+        "files": []
+      },
+      "方案验证-数据与用户反馈": {
+        "id": "M%5BUH",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "主内容": {
+        "id": "iPLx",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Slug": {
+        "id": "nIAm",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "zoom-docs-ai-meeting-doc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "zoom-docs-ai-meeting-doc",
+            "href": null
+          }
+        ]
+      },
+      "整体过一遍，缩减到 2/3，AI 帮忙措辞优化更 fancy 贴近 apple 宣传风格": {
+        "id": "orTb",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "背景场景等信息补充和优化": {
+        "id": "r%5EOS",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "英文版整理": {
+        "id": "uiEF",
+        "type": "checkbox",
+        "checkbox": false
+      },
+      "Status": {
+        "id": "w%3ABy",
+        "type": "status",
+        "status": {
+          "id": "76ee00dd-abe9-4d98-bddc-64482b2c470c",
+          "name": "In progress",
+          "color": "blue"
+        }
+      },
+      "Tag": {
+        "id": "wfq%60",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "e9d22602-6f76-4928-a787-c96216456aae",
+            "name": "AI",
+            "color": "blue"
+          },
+          {
+            "id": "f21f3177-df28-46dd-89e3-c8e0ef96ea25",
+            "name": "Enterprise",
+            "color": "brown"
+          },
+          {
+            "id": "f1c25c92-ad9d-4ffe-a239-3e25595e9e51",
+            "name": "Intergration",
+            "color": "default"
+          }
+        ]
+      },
+      "中文版整理": {
+        "id": "%7DMq%5D",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs - AI meeting doc",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs - AI meeting doc",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Zoom-Docs-AI-meeting-doc-20258f61591a80f880dae45a238d2107",
+    "public_url": null,
+    "request_id": "c7d9d5cf-6eaf-49b3-9c51-d0573992c72d"
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "22458f61-591a-8030-b687-c808e61c3c1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-02T09:56:00.000Z",
+      "last_edited_time": "2025-07-14T09:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🕰️ 时间: 2024.07 - 2024.08",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🕰️ 时间: 2024.07 - 2024.08",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8143-ba5d-eddfb54e69da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-14T09:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "👩🏻‍💻 角色: Design Owner",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "👩🏻‍💻 角色: Design Owner",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21658f61-591a-8045-8a9a-ea127031fa95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-18T11:12:00.000Z",
+      "last_edited_time": "2025-06-18T11:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Introduction",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Introduction",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-80ac-8f73-f463aca20edc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-17T08:46:00.000Z",
+      "last_edited_time": "2025-06-18T11:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/3d8c3548-f859-4aea-b72e-827c3d7cea1a/description.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101951Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=5fbdb61a95595d0d14dc2da591a6797f40fcc5b2499e15266885ca1ce5afacd6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:51.974Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-21558f61-591a-80ac-8f73-f463aca20edc.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21658f61-591a-80d8-8eeb-fda78bab7f1e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-18T11:12:00.000Z",
+      "last_edited_time": "2025-06-18T11:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81eb-b179-eb042365b240",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T14:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom 用户的使用场景主要围绕会议周期展开。在会前、会中、会后各阶段，用户需要处理很多手动、重复的低价值工作，这些工作可以通过 AI 技术自动化来完成，从而帮助用户提升效率。通过访谈与调研发现，\"会议信息的回顾与使用\"是用户最迫切需要得到帮助的环节。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom 用户的使用场景主要围绕会议周期展开。在会前、会中、会后各阶段，用户需要处理很多手动、重复的低价值工作，这些工作可以通过 AI 技术自动化来完成，从而帮助用户提升效率。通过访谈与调研发现，\"会议信息的回顾与使用\"是用户最迫切需要得到帮助的环节。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23058f61-591a-805f-a61a-e4e75ed3716e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-14T09:00:00.000Z",
+      "last_edited_time": "2025-07-14T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/b143ea6b-fb30-472a-8851-512855d21a1b/%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%9C%9F%E4%B8%AD_zoom_docs_%E7%9A%84%E8%A7%92%E8%89%B2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101951Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=e4e77bb8d85c308e770a2971339b7ea99cc6431ec571ec5ae836dfe44554acba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:51.971Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-23058f61-591a-805f-a61a-e4e75ed3716e.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-8020-8fe3-d0b2755f9c6e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T14:09:00.000Z",
+      "last_edited_time": "2025-07-11T14:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8172-9931-ca6b444b4912",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T14:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thinking",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thinking",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8150-bb30-fa510cb1a421",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T07:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "传统方式下，记录、整理和使用会议信息是件费时费力的事：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "传统方式下，记录、整理和使用会议信息是件费时费力的事：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8012-b6e3-e006128cfd81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T09:07:00.000Z",
+      "last_edited_time": "2025-07-11T07:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/99666a65-4cbc-49d3-a900-5b91120bd9e9/user_problem.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101951Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=c019ad3b24a457618003782b8b77b840d4939db65675af9d0104807bf5c6f383&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:51.983Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-21058f61-591a-8012-b6e3-e006128cfd81.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-80f1-b9e4-f4bd2a5d6e19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T14:13:00.000Z",
+      "last_edited_time": "2025-07-11T14:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8069-9dc3-eff2ac7fd356",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:02:00.000Z",
+      "last_edited_time": "2025-07-16T10:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "用户在会后需要的也不仅仅是一份会议纪要，更是在达成结论的基础上，进一步的协作或讨论。",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "用户在会后需要的也不仅仅是一份会议纪要，更是在达成结论的基础上，进一步的协作或讨论。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23258f61-591a-80c3-95db-ca492b8a9f0c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-16T10:19:00.000Z",
+      "last_edited_time": "2025-07-16T10:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-8098-9a2d-fdc40ac0a955",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T14:11:00.000Z",
+      "last_edited_time": "2025-07-11T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zoom Docs 是非常适合的载体，",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zoom Docs 是非常适合的载体，",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "通过将会议中产生的非结构化数据转化为结构化的文档和任务，可以为 Zoom 构建一个数据闭环，为未来的更多智能化功能打下基础。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default_background"
+            },
+            "plain_text": "通过将会议中产生的非结构化数据转化为结构化的文档和任务，可以为 Zoom 构建一个数据闭环，为未来的更多智能化功能打下基础。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-801e-8a10-f35b3b1f3527",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T14:12:00.000Z",
+      "last_edited_time": "2025-07-11T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "让",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "让",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "用户场景从“开会时”延伸到“开会后”，",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "用户场景从“开会时”延伸到“开会后”，",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "将 Zoom 从“实时沟通工具”扩展为“知识沉淀和任务跟进平台”，",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default_background"
+            },
+            "plain_text": "将 Zoom 从“实时沟通工具”扩展为“知识沉淀和任务跟进平台”，",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "帮助提升用户粘性和产品护城河。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "帮助提升用户粘性和产品护城河。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-8064-86c4-f3ec6bf2cf7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T07:32:00.000Z",
+      "last_edited_time": "2025-07-11T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在会后场景中，Docs + AI + Meeting data 适合完成这些任务：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在会后场景中，Docs + AI + Meeting data 适合完成这些任务：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-80a8-8dbb-c3d6587bce3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:03:00.000Z",
+      "last_edited_time": "2025-06-18T10:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "自动生成会议文档，方便参会者回顾和协作",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "自动生成会议文档，方便参会者回顾和协作",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "20258f61-591a-817e-9b2b-d69bfb30a5ba",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-80a8-8dbb-c3d6587bce3f"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-07-04T09:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "AI 基于会议内容，生成定制化的会议总结文档；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "AI 基于会议内容，生成定制化的会议总结文档；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "20258f61-591a-818d-8416-dec22450fabb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-80a8-8dbb-c3d6587bce3f"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-07-04T09:57:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "用户可以根据意图的不同，切换会议文档模板；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "用户可以根据意图的不同，切换会议文档模板；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "20258f61-591a-81af-90a9-e9fe9635096c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-80a8-8dbb-c3d6587bce3f"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-07-04T09:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "用户可以创建自己的 AI 会议总结模板，方便复用以及共享；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "用户可以创建自己的 AI 会议总结模板，方便复用以及共享；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-800d-9999-d1d5a572f0a4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:04:00.000Z",
+      "last_edited_time": "2025-07-03T11:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "追溯会议细节",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "追溯会议细节",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "20258f61-591a-817e-8c66-ce2f9e24b1e7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-800d-9999-d1d5a572f0a4"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-07-04T09:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "用户根据会议文档内容快速定位具体讨论，找到原始的会议记录或录音片段；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "用户根据会议文档内容快速定位具体讨论，找到原始的会议记录或录音片段；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "20258f61-591a-8176-8d3b-c295a0d6ee44",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-800d-9999-d1d5a572f0a4"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-06-18T10:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "针对会议内容进行精准提问，快速获取所需信息；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "针对会议内容进行精准提问，快速获取所需信息；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8014-b34a-c75f23f75ee9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:04:00.000Z",
+      "last_edited_time": "2025-07-11T14:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在后续工作中引用会议信息（在 Zoom Docs Contextual AI tools 项目中已满足）",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在后续工作中引用会议信息（在 Zoom Docs Contextual AI tools 项目中已满足）",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "children": [
+        {
+          "object": "block",
+          "id": "20258f61-591a-812c-9a06-ff0acce51c19",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-8014-b34a-c75f23f75ee9"
+          },
+          "created_time": "2025-05-29T10:39:00.000Z",
+          "last_edited_time": "2025-07-11T07:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "在文档创作中，AI 使用会议内容作为上下文进行写作；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "在文档创作中，AI 使用会议内容作为上下文进行写作；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "object": "block",
+          "id": "21058f61-591a-8072-a444-e352c175dc8b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "21058f61-591a-8014-b34a-c75f23f75ee9"
+          },
+          "created_time": "2025-06-12T10:07:00.000Z",
+          "last_edited_time": "2025-07-11T07:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "直接在文档中引用某次会议的部分信息；",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "直接在文档中引用某次会议的部分信息；",
+                "href": null
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8071-a085-c63f10d09f65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:01:00.000Z",
+      "last_edited_time": "2025-06-13T11:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "……",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "……",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8022-aef8-cbe3d060740e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T12:26:00.000Z",
+      "last_edited_time": "2025-06-12T12:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8105-9bed-ff16e634b831",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813a-8ee3-e2248caad8a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81f0-aafc-c26ad60c459e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-13T11:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813c-8243-cd61849227c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Solution",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Solution",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8118-bf3a-dd118505c196",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T07:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "基于时间限制，我们在第一个版本中专注于最核心的用户诉求——“会后快速获取会议总结，进一步分享与协作“，让 AI 为用户生成定制化的会议文档。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "基于时间限制，我们在第一个版本中专注于最核心的用户诉求——“会后快速获取会议总结，进一步分享与协作“，让 AI 为用户生成定制化的会议文档。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8022-88a4-c3ee3d0915aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:17:00.000Z",
+      "last_edited_time": "2025-06-12T10:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8164-b41c-de2495837bb1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-12T12:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "场景体验设计",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "场景体验设计",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-813f-9ee3-d7da29d563ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T08:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "会议结束后，用户可以在会议相关的 Chat 和个人 Email 中看到 AI 提供的 Meeting summary，可以选择生成 Meeting Doc；在 Calendar 的会议日程上、Docs 的侧边栏，都可以快速找到 Meeting Doc 的入口；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "会议结束后，用户可以在会议相关的 Chat 和个人 Email 中看到 AI 提供的 Meeting summary，可以选择生成 Meeting Doc；在 Calendar 的会议日程上、Docs 的侧边栏，都可以快速找到 Meeting Doc 的入口；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23158f61-591a-80d2-8797-e33f7e6db84f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-15T10:51:00.000Z",
+      "last_edited_time": "2025-07-15T10:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/20f5ad89-758e-4bb2-b187-f10529f69d4d/guidance.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=5e1607866bea02e6a193614d9f691d7e36f18becc6ec9407e90ecc5dfc412edb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.214Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-23158f61-591a-80d2-8797-e33f7e6db84f.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8009-90eb-dbfd66892be7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:23:00.000Z",
+      "last_edited_time": "2025-06-12T10:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21058f61-591a-8005-b010-f1c81102d2ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-12T10:23:00.000Z",
+      "last_edited_time": "2025-07-11T08:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "如果用户不希望每次会后都自动生成文档，可以在列表中选择性得到某个会议的 Meeting Doc；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "如果用户不希望每次会后都自动生成文档，可以在列表中选择性得到某个会议的 Meeting Doc；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-812a-9c03-f67ab38b798c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-10T10:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/afde3113-93a6-4184-a479-79c4fbf403d7/1_meeting_list.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=32e14674d5c5ce11ba3e35d2303cf275718a562ff5a7f80393548a4612a2d238&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.225Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-20258f61-591a-812a-9c03-f67ab38b798c.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-8077-9f2f-f9544d2ee8be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:05:00.000Z",
+      "last_edited_time": "2025-06-10T10:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-817a-b958-d8632cc133dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-12T10:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI Companion 会自动生成会议摘要和后续行动方案，提供后续行动的起点；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI Companion 会自动生成会议摘要和后续行动方案，提供后续行动的起点；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81de-a7dd-c50ebf7e8879",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-10T10:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/a1a1652c-2c58-4a52-a145-6f2503a957d5/2_default_template.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=9214c231d4f0a30080928a727bdfc5fa97ab7dd8ff79648b2426647f32eb82f0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.194Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-20258f61-591a-81de-a7dd-c50ebf7e8879.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80b6-b414-d669bd1f67f2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:05:00.000Z",
+      "last_edited_time": "2025-06-10T10:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80dd-bd3b-e74eb8fa092a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T09:54:00.000Z",
+      "last_edited_time": "2025-07-04T10:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "用户可以切换不同场景的会议模板，AI Companion 利用各模板结构或视角总结会议，创建符合诉求的文档供用户选择；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "用户可以切换不同场景的会议模板，AI Companion 利用各模板结构或视角总结会议，创建符合诉求的文档供用户选择；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-8027-9d21-eff22d92cffd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T08:56:00.000Z",
+      "last_edited_time": "2025-07-11T08:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/fdc66c0c-5bcd-424d-a4b9-64780dc2c1cd/3_switch_template_-_template_list.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=eb252ae9cd5932b36ce5f52f74dd04f5f3aa12f2e95ad5c7b3315240761b13e6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.222Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-22d58f61-591a-8027-9d21-eff22d92cffd.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80b7-96b4-fa8ac465a430",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:05:00.000Z",
+      "last_edited_time": "2025-06-10T10:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8124-bdd0-f2b5df0c4f71",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-12T10:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Meeting Doc 完成创建前，将默认勾选所有参会者为文档协作者，方便让会议相关人进一步协作，用户也可以手动选择分享对象。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Meeting Doc 完成创建前，将默认勾选所有参会者为文档协作者，方便让会议相关人进一步协作，用户也可以手动选择分享对象。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-812d-a462-f5db1429f4e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-10T10:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/82825d8c-a675-48a9-ae77-a50f84c68aa9/4_selecting_member.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=acf15a3f060a6c9ca52bb557fb7700ef32e10deb7db129ec32bff5898f106085&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.203Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-20258f61-591a-812d-a462-f5db1429f4e4.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-8030-a005-ea8fb713d4f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:06:00.000Z",
+      "last_edited_time": "2025-06-10T10:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80ad-b89c-d04ac45e4086",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:06:00.000Z",
+      "last_edited_time": "2025-07-11T08:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "成功创建 Meeting Doc，可以进一步同步信息、追踪后续任务。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "成功创建 Meeting Doc，可以进一步同步信息、追踪后续任务。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-812d-bf08-e5be1e647a88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-10T10:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/6202feb3-34b4-4645-9230-df524e554784/5_doc_created.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=46b3a58a74d1be2acfe301a9afd03e76810dd17a16c629536c38444a6a50a7da&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.210Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-20258f61-591a-812d-bf08-e5be1e647a88.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80e4-82d1-e46d4923857c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T12:32:00.000Z",
+      "last_edited_time": "2025-06-10T12:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22d58f61-591a-8085-a41b-d2892558d4cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-11T08:46:00.000Z",
+      "last_edited_time": "2025-07-11T08:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/6cbe54f9-7254-4af5-8661-fb4f2984a774/AI_meeting_Doc_GA_version_7.11.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=90e4e9902a33841c5f876617c8849b586da9942950c34d0bd79c44cec54fe256&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.219Z"
+        },
+        "localPath": "/projects/videos/20258f61-591a-80f8-80da-e45a238d2107-22d58f61-591a-8085-a41b-d2892558d4cf-AI_meeting_Doc_GA_version_7.11.mp4"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-806e-82e9-dc0b036741e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T12:33:00.000Z",
+      "last_edited_time": "2025-06-10T12:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8198-aa42-fb76d737c927",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "一些细节",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一些细节",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81e4-9fc8-e1528490be80",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. 提供掌控感: “know what's going on”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. 提供掌控感: “know what's going on”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81e3-88b4-cc833ff64e18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T08:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "由于当时团队内的研发问题，未能支持模拟打字机的生成效果，过程中也没有进度数据可以返回，为减少等待焦虑和不确定感，我设计了模拟目录的生成等待效果，使用各模板的实际结构作为目录，让用户在等待过程中可以预览会议即将被总结的方式，提供“正在生成”的感觉。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "由于当时团队内的研发问题，未能支持模拟打字机的生成效果，过程中也没有进度数据可以返回，为减少等待焦虑和不确定感，我设计了模拟目录的生成等待效果，使用各模板的实际结构作为目录，让用户在等待过程中可以预览会议即将被总结的方式，提供“正在生成”的感觉。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23158f61-591a-806a-a9f8-c389e0286f8c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-15T11:03:00.000Z",
+      "last_edited_time": "2025-07-15T11:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "children": [
+        {
+          "object": "block",
+          "id": "23158f61-591a-80de-ba37-c928ea2fb69c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23158f61-591a-806a-a9f8-c389e0286f8c"
+          },
+          "created_time": "2025-07-15T11:03:00.000Z",
+          "last_edited_time": "2025-07-15T11:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "23158f61-591a-8070-bb9a-ef66f2e617c3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23158f61-591a-80de-ba37-c928ea2fb69c"
+              },
+              "created_time": "2025-07-15T11:03:00.000Z",
+              "last_edited_time": "2025-07-15T14:11:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/281793f7-25db-4f2c-bd36-dc955a68d771/detail_-_generating.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WRSRXWKJ%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101958Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJHMEUCIQDwKqT3rvGm%2FYOQYqYe0FUv3d5Ao0VfvVYkZug%2BOGeuTQIgMbaHNP%2BhA4g%2FIsSxAq5kfjgy%2BStWCYGXKvWAdD6D7a0q%2FwMIWxAAGgw2Mzc0MjMxODM4MDUiDEu5DBfBL41S4r6u4SrcA6rR5oigQLrWM0hvugA8p8YVtYhcf04gR7xZFxyQzEq2kJzdfdbHpajZDXVmrcyhImB%2F2uTmIsbCElcyixIiNuijprkzVYLPV1JTWVKT55SkEWdx1JGXYGGyl7svYYsh4tXrADM7OrjHU3usAVKvCVM1KZlo2I%2FK5zxzpqrEORPhXV0POOhTryNMdYky3n6hwejhIug2IcVEeNrVdLqaPZbJuwdBNX%2Fk5Xz1ryYjpnZs2oqd2CQH0F95f8xl%2BCJ3nhF321MJblpVQrYih25cg4Fq6sOvwZEYF2G9cX%2F9guv6oIsUXma4bdSBA5%2BuvClYm%2BKMC67WHorRELH%2BqhqQr2h1bDel4y6NSxWDqDvBShgWybMmjcmALOihUvmEKUGi1Ct4P8X5lFctS%2BsVlE8McAfWkF%2FBybZUC7wR5oA8eJk0sF%2BZJYH0%2FHgCtGpvWMpstw6%2FhSzbrEK3hdo8sEOHJnrmRKizdJm6wAEdFzc5M7z0HUTpgakBXbpJrO7gej0D2U96Doj6wV4VWkxqMYeFmkw%2BKRXeZO3Xe9kTYHerfvAXsBK59lClfvQslRL5XFCW5kfjkVIO6RJcEChnGQOZPLOFhKj021HjAGkk5T%2FDhGe89vCTEQmi0oCHoN8JMNbn3cMGOqUBIYO4ew2mELvEyIufpqhR0bPS1IHnqjIovOmEHD%2F6YZiatEapA6N8d9HKt215zdSyI%2F8us0GPKaUv96QkIX40aTKwSZlFRGD9QPt3Pic8rq1mhFiH7RXmkd2F7gstNESpNtKmUh38X%2BSVzosb1153hTT7B8jHVEoAQSF6Iknx%2FJOa9Femm65szllxyRoEaEjPDm0ovNKc%2FdagBj4RI7b9jCpN1WCr&X-Amz-Signature=6e896bce61bc9b3f24ed1a9481c973e6ce1a067ab5361240b32d5bad3e966bcb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-16T11:19:58.087Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-23158f61-591a-8070-bb9a-ef66f2e617c3.png"
+              }
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "23158f61-591a-80e0-85e1-f52322d72cd5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "23158f61-591a-806a-a9f8-c389e0286f8c"
+          },
+          "created_time": "2025-07-15T11:03:00.000Z",
+          "last_edited_time": "2025-07-15T11:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "object": "block",
+              "id": "23158f61-591a-8062-9e42-f7e2ce7a5c2f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "23158f61-591a-80e0-85e1-f52322d72cd5"
+              },
+              "created_time": "2025-07-15T10:57:00.000Z",
+              "last_edited_time": "2025-07-15T11:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/7cfecbc7-ffd4-4bd8-a1e5-a802576d7bd5/detail_-_generating_status.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666KCKRL6B%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T102000Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIHXehWhE2vaUUxaajwJYyg2Lbn59NbtWbCvt2zDwlVvTAiAE0gUNKEsZVyqKYOqdAiCqpHJGsbyxbLMxghBxvwkFrir%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMhxQwF6GU4YA2JbjRKtwDzkXEzhhpkZK59vQq1AE%2FfveKCR3kexWFQLoCY84MPZhNKcRHwOEov7c721rSkyyuYixpcw7BDI%2F3GKlyl0UFVuyn1Ny%2FGGTCIv56sRsMY2WnUo04QB5hmg%2FK7ZenH3sFs9kf9Eiu7Ul25%2FyNt8bLzwpxMfSzmsVL6No1Dat4jjNWN%2Boqtd7wcfng1lO3%2Btsmrr%2B%2BWex6DA9Oq4lYUR8upgvHHG7kPNSqhs0B9qhXXie2Lf9DDFrUlK6sVxfqe2wTt8WrJhcsoFjm9R%2FAKquB%2B1K%2BdZZdSH1AKuT7H%2BtBZy2BXkCsCm3U9xD9wrRcf8LLHySJ2SkM%2BslQkeiDgWQtViXQgeHs%2B55PDNRq5ial%2BA4pVMkLV47er1Te1b2A8KGvjRcPpuE4WrAfuBBk9HgXA4L3JDYQcSJWtXGORhT5%2FeI2vwRdy0sVvTy9sijJO37zOmpwUutcHxHV%2FkGkG8in19NK%2Bs9927jtFnrkGAE8sszpgsBGe2ADZI82W2wvoSnLKjm20sqn5VyiDfEVwH7VtnWIFhBZJ8i%2B6eR%2F2jj4Qr41Vz3Q3OeRH9u5CMXq1M2B6VNUH8ineDhQMPteeRUd33FznRWkfpt8Iilt7IKRqXEfMuFF8QOPA9tIvmQwhejdwwY6pgFopXHYGYz4%2BXoZ0KioNvMBV04a9qGUC2GXUYSr%2B16KLZCsc8LmrTfYihJqtV8D%2BeyKXzme%2BrxAFXAnQ2Irds0rcKc79zcgsi3PutRD%2Bq5vkWfJ8E4qCvr3pNyjptK296ql9HphMEho%2B1af0hLuc2edIVLCqZI7Bt%2FNXIEdJJJGadtdocz%2F9tZvhSK%2F22tsOjyaLsV9KyxSIkUq6rlxURmGhZjNnp4d&X-Amz-Signature=db47f6e59fed97f22a4896ac4a2a30a37016426dc86d4fcdc294373a585231c4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                  "expiry_time": "2025-07-16T11:20:00.973Z"
+                },
+                "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-23158f61-591a-8062-9e42-f7e2ce7a5c2f.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8067-bbd2-f802d4b241b1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-13T11:31:00.000Z",
+      "last_edited_time": "2025-06-18T11:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8118-b644-c0b824cce1cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-03T12:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. ”Customized for you” & “My templates”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. ”Customized for you” & “My templates”",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22558f61-591a-8011-a133-c4455aca1f02",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-03T12:12:00.000Z",
+      "last_edited_time": "2025-07-03T12:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AI 根据会议标题、会议类型与内容等，自动推荐适合的会议总结模板；",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AI 根据会议标题、会议类型与内容等，自动推荐适合的会议总结模板；",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8194-be3a-c4bb6a3ab6a2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-04T10:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "用户自定义自己的总结方式，用自然语言构建会议模板，可以与他人或团队分享共用",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "用户自定义自己的总结方式，用自然语言构建会议模板，可以与他人或团队分享共用",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22558f61-591a-8018-be9d-ee96ac25b430",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-03T12:28:00.000Z",
+      "last_edited_time": "2025-07-03T12:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/04f94b3a-50ba-4668-9b22-422824596874/future_%E6%8E%A8%E8%8D%90%E6%A8%A1%E6%9D%BF%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%B9%E7%AA%97.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=54c3fde2e69f675f3856a93415ff770fe2afc60bca69424d046e95cafbda8476&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.403Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-22558f61-591a-8018-be9d-ee96ac25b430.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "22558f61-591a-8070-bc05-ef8e5dd1b524",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-03T12:28:00.000Z",
+      "last_edited_time": "2025-07-03T12:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8137-aa7a-f3f52abcf2cf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-18T11:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3. 再高效一些",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3. 再高效一些",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-818c-8682-d9d83ce7477a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-04T10:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "在用户查看默认模板生成的会议文档时，AI 将自动开始生成其他场景模板的文档，减少用户切换模板后的等待时间",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "在用户查看默认模板生成的会议文档时，AI 将自动开始生成其他场景模板的文档，减少用户切换模板后的等待时间",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20e58f61-591a-80e5-b45d-f5362e035327",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-10T10:06:00.000Z",
+      "last_edited_time": "2025-06-10T10:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8193-aa90-d944ff39aa72",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-04T10:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4. 暗黑模式 - 科技感与沉浸感",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4. 暗黑模式 - 科技感与沉浸感",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-810d-bc55-eab3deea3b3c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-18T10:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/1f6938c1-7e4a-4f9c-950c-f03e838d2c0c/dark_mode.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=df76526a062da4652f477c8386258ee120bacf9f17bc326e2b038337cf7c64e5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.363Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-20258f61-591a-810d-bc55-eab3deea3b3c.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-80e6-ab2d-f7a817916dba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-13T11:28:00.000Z",
+      "last_edited_time": "2025-06-13T11:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81a9-94b9-dbd4044478ed",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-13T11:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Results",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Results",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-817a-8ff3-fb518df65364",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-07-11T09:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "目前 AI Meeting Doc 已成为 Zoom 会后的主要同步工具之一，切实为用户节省了时间，提升了会后工作效率：",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "目前 AI Meeting Doc 已成为 Zoom 会后的主要同步工具之一，切实为用户节省了时间，提升了会后工作效率：",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-8057-b843-f945485e0c53",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-13T11:27:00.000Z",
+      "last_edited_time": "2025-06-13T11:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/ff32c71c-0ec6-4f9e-ab77-dfb442cfe470/compliment_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=9c6d91f996fe88b49672c11e2d1c1c2466b49c74c800ccc42def6223df0f2c23&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.355Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-21158f61-591a-8057-b843-f945485e0c53.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21158f61-591a-809d-94ad-ca07eb960a75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-13T11:27:00.000Z",
+      "last_edited_time": "2025-06-13T11:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/84d195ca-d8fb-406e-b6ee-c93375fd923a/c526c8d1-e6de-4617-b3e4-0da0af1daaec/compliment_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46676CFPYN5%2F20250716%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250716T101952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEIaCXVzLXdlc3QtMiJGMEQCIB0nml7cXJM97On1dejvd4BPUei6I5cOunCU9kxvPPSYAiBzTJ4m5oo6UBRlSjer6ZK2hvfldO2CSxVMTjyumrfffCr%2FAwhbEAAaDDYzNzQyMzE4MzgwNSIMwaciu4%2FEXpZpim82KtwDT4IREP04Gf%2BXLTKG6JUWCKivyz7T0S2BsR0%2BuujJe%2B4W9ww7YRMS9Hdl62JTftJbMh8zVTkAp3MuSkCTcZMBVt4dlUhUiIMx81rZE%2FCBKYncVz5%2BamAyZGWfn8nAgN22Oc%2FyEWllKb8CaJMB614%2FW50TvvMO64X%2FsjiKF8XxIXvDM3z0JCoZSC%2FMB4C1SEobwoJhvHDm6jsY3Hm3R6IrsZ6R8NXgark%2FbwzK7HatSb6MAOCula6SiAKxY%2F4lxiLAe9lcVfi1nWEhYkqd8bIn1KTTugBsJadhdIDaZ7biHhhr9qOrePEiAmfZzwvZ3N%2FzaPZIPwVPWx7NGRLaeysar1jvDSl%2FdGpgclM7jI31s3zLzmZBkCfucsPUDMEfPJSCIy%2F18btuev8TL5JcO%2BdNAvSZqViJMbJY9kQiWngbeOH0v%2BxMdfFTps9XCKw3ztQLnabCG%2FFrhy5tU969oMgaz%2FEXQra%2BZJB4TqSp3Qz4cxppxBDSePucKlk%2FklM7LNJdipc2ONl23e%2FLLfEakae9uzQIulcFstukJwDYY7mOBpowrOuNwI3G3erkeQSE12SaKJ%2BkcJa6NVPOCYKKUilKCWw9quwA%2BUKmeXNOuhAogKR32u4uGbpuCxacLnswxOfdwwY6pgF1v8dI%2BIBS7W0288P9Wz28mWwz6JTUMrOaOBZSWNVd5VXgecIyBzoxa5AUL7qCR%2B38wC9hw3Sv1sH9W4cBRFsA2At3jLfm25XotvDyHTxnV4ztyS3%2Bttu3jF7Doc0%2Bxs%2Fax12POyxOElnzWpwvPsJngixOrxPKPqPuBcQoKys8tiQatyqqLjCE9QI0mN1efrkvXw4ZXT55Pqvg2rch4nI7c9IFERg8&X-Amz-Signature=8180e7f2761606b597819a517d0fdb862b03979fdc88d2fa6918d9994dc9313b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-07-16T11:19:52.364Z"
+        },
+        "localPath": "/projects/content/20258f61-591a-80f8-80da-e45a238d2107-21158f61-591a-809d-94ad-ca07eb960a75.png"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81cd-97eb-fc70a7d6402a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-8108-8241-c763e571ac0c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81fb-bc0d-d9468a880d96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-818b-938a-c37439db9217",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-05-29T10:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "20258f61-591a-81e7-bdfd-d982079a6656",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-05-29T10:39:00.000Z",
+      "last_edited_time": "2025-06-13T12:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Related links",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Related links",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-800b-9ac5-ee84598a7cca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-17T09:35:00.000Z",
+      "last_edited_time": "2025-06-17T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.zoom.com/en/products/collaborative-docs/"
+      }
+    },
+    {
+      "object": "block",
+      "id": "21558f61-591a-80ba-b336-d7b862f13ce8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-06-17T09:35:00.000Z",
+      "last_edited_time": "2025-06-17T09:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.linkedin.com/posts/tattooednerd_zoom-docs-is-the-most-powerful-tool-youve-activity-7282500967558746114-1dpZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhQ3aIBxKL8uSfC14NOh9hXRPBwz4qI080"
+      }
+    },
+    {
+      "object": "block",
+      "id": "23058f61-591a-8043-99a6-c82514d837ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "20258f61-591a-80f8-80da-e45a238d2107"
+      },
+      "created_time": "2025-07-14T12:50:00.000Z",
+      "last_edited_time": "2025-07-14T12:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "8a9fe212-c1a9-47b3-ab41-01315763d182"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  ],
+  "synced_at": "2025-07-16T10:20:07.917Z",
+  "language": "zh",
+  "sourceProjectId": "20258f61-591a-80f8-80da-e45a238d2107"
+}

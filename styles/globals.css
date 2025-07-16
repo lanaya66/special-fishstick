@@ -2,7 +2,7 @@
 @tailwind components; 
 @tailwind utilities;
 
-/* 中文注释: 全局样式重置和基础设置 */
+/* 全局样式重置和基础设置 */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -26,7 +26,7 @@ a {
   text-decoration: none;
 }
 
-/* 中文注释: 自定义动画 */
+/* 自定义动画 */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -40,7 +40,91 @@ a {
   animation: fadeIn 0.5s ease-out forwards;
 }
 
-/* 中文注释: 响应式样式 - 小屏幕下弹窗标题折行 */
+/* 文本截断工具类 */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Experience部分的间距样式 */
+.experience-description {
+  /* 段落间距12px，列表行间距6px */
+}
+
+/* Experience部分超链接样式 */
+.experience-description a {
+  text-underline-offset: 2px; /* 调整下划线位置，让文字与下划线保持1px间距 */
+}
+
+.experience-description p {
+  margin-bottom: 12px;
+  line-height: 26px;  /* 更新行高为 26px */
+}
+
+.experience-description p:last-child {
+  margin-bottom: 0;
+}
+
+/* 列表容器间距 */
+.experience-description ul, 
+.experience-description ol {
+  margin-bottom: 12px;
+}
+
+/* 列表项间距6px */
+.experience-description li {
+  margin-bottom: 6px;
+  line-height: 26px;
+}
+
+.experience-description li:last-child {
+  margin-bottom: 0;
+}
+
+/* 数字列表样式 */
+.experience-description ol {
+  list-style: none;
+  counter-reset: item;
+}
+
+.experience-description ol > li {
+  counter-increment: item;
+  position: relative;
+  padding-left: 0;
+}
+
+.experience-description ol > li::before {
+  content: counter(item) ". ";
+  font-weight: normal;
+  margin-right: 8px;
+}
+
+/* 项目符号列表样式 */
+.experience-description ul {
+  list-style: none;
+}
+
+.experience-description ul > li {
+  position: relative;
+  padding-left: 0;
+}
+
+.experience-description ul > li::before {
+  content: "• ";
+  font-weight: normal;
+  margin-right: 8px;
+}
+
+/* 响应式样式 - 小屏幕下弹窗标题折行 */
 @media (max-width: 500px) {
   .modal-title {
     white-space: normal !important;

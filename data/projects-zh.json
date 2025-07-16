@@ -1,0 +1,105 @@
+[
+  {
+    "id": "21758f61-591a-80c7-b6f3-e2c4d2786d03",
+    "name": "希悦校园 Chalk 3.0",
+    "tags": [
+      "Education",
+      "Productivity",
+      "Tool"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "chalk-30",
+    "created": "2025-06-19T09:25:00.000Z",
+    "updated": "2025-07-02T09:57:00.000Z",
+    "localImage": "/7希悦校园 Chalk.png"
+  },
+  {
+    "id": "20258f61-591a-805a-bbaa-c5844fa7cb4f",
+    "name": "Light - GTD",
+    "tags": [
+      "Productivity",
+      "Individual",
+      "Tool"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "light-gtd",
+    "created": "2025-05-29T10:40:00.000Z",
+    "updated": "2025-07-02T09:57:00.000Z",
+    "localImage": "/6Light - GTD.png"
+  },
+  {
+    "id": "20258f61-591a-80db-bae5-d93394e78c73",
+    "name": "Light - Mainsite",
+    "tags": [
+      "Enterprise",
+      "All-In-One"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "light-mainsite",
+    "created": "2025-05-29T10:40:00.000Z",
+    "updated": "2025-07-02T09:57:00.000Z",
+    "localImage": "/5Light - Mainsite.png"
+  },
+  {
+    "id": "20258f61-591a-807d-8f90-dd3933d92ab9",
+    "name": "Zoom Docs - Page editor",
+    "tags": [
+      "Enterprise",
+      "Document Collaboration"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "zoom-docs-page-editor",
+    "created": "2025-05-29T10:40:00.000Z",
+    "updated": "2025-07-02T09:56:00.000Z",
+    "localImage": "/4Zoom Docs - Page editor.png"
+  },
+  {
+    "id": "20258f61-591a-80f8-80da-e45a238d2107",
+    "name": "Zoom Docs - AI meeting doc",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Intergration"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "zoom-docs-ai-meeting-doc",
+    "created": "2025-05-29T10:39:00.000Z",
+    "updated": "2025-07-02T11:16:00.000Z",
+    "localImage": "/3Zoom Docs - AI meeting doc.png"
+  },
+  {
+    "id": "20258f61-591a-8041-8701-c1bddf67512c",
+    "name": "Zoom Docs - Ask AI Companion",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Assistant"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "zoom-docs-ask-ai-companion",
+    "created": "2025-05-29T10:39:00.000Z",
+    "updated": "2025-07-02T05:54:00.000Z",
+    "localImage": "/2Zoom Docs - Ask AI Companion1.png"
+  },
+  {
+    "id": "20258f61-591a-80c9-8ac0-ec73bcd3c0c5",
+    "name": "Zoom Docs - Contextual AI tools",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Document Collaboration"
+    ],
+    "year": 2025,
+    "image": null,
+    "slug": "zoom-docs-contextual-ai-tools",
+    "created": "2025-05-29T10:38:00.000Z",
+    "updated": "2025-07-02T11:16:00.000Z",
+    "localImage": "/1Zoom Docs - Contextual AI tools.png"
+  }
+]
