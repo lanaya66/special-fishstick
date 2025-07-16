@@ -119,12 +119,12 @@ export default function ProjectMenuItem({ project, isSelected, forceDesktopStyle
               {getTagsText()}
             </p>
             
-            {/* 项目年份 */}
+            {/* 项目时间范围 */}
             <span 
               className={`font-medium text-[rgba(50,51,53,0.56)] leading-normal ${useDesktopStyle ? 'text-sm' : 'text-xs'}`}
               style={{ fontFamily: "'Inter', -apple-system, BlinkMacSystemFont, sans-serif" }}
             >
-              {project.year}
+              {project.timeRange || project.year}
             </span>
           </div>
         </div>

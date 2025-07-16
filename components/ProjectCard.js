@@ -164,13 +164,13 @@ export default function ProjectCard({ project }) {
                 </p>
               </div>
 
-              {/* 中文注释: 年份 - 修改为左对齐 */}
+              {/* 中文注释: 时间范围 - 修改为左对齐 */}
               <div className="flex flex-row gap-2.5 h-6 items-center justify-start">
                 <span 
                   className="text-[14px] font-semibold text-[rgba(50,51,53,0.56)] leading-none"
                   style={{ fontFamily: "'Inter', -apple-system, BlinkMacSystemFont, sans-serif" }}
                 >
-                  {project.year}
+                  {project.timeRange || project.year}
                 </span>
               </div>
             </div>
@@ -201,13 +201,13 @@ export default function ProjectCard({ project }) {
                 </p>
               </div>
 
-              {/* 中文注释: 右侧年份 */}
+              {/* 中文注释: 右侧时间范围 */}
               <div className="flex items-center">
                 <span 
                   className="text-[13px] font-semibold text-[rgba(50,51,53,0.56)] leading-none"
                   style={{ fontFamily: "'Inter', -apple-system, BlinkMacSystemFont, sans-serif" }}
                 >
-                  {project.year}
+                  {project.timeRange || project.year}
                 </span>
               </div>
             </div>
