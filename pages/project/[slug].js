@@ -161,7 +161,7 @@ export default function ProjectDetail({ initialProject, initialProjects, initial
           paddingLeft: 'max(24px, calc((100vw - 720px) / 2))',
           paddingRight: 'max(24px, calc((100vw - 720px) / 2))',
           paddingTop: 'clamp(120px, 188px, 200px)', // 148px导航栏 + 40px间距，mobile下120px
-          paddingBottom: '200px'  // 底部200px间距
+          paddingBottom: '60px'  // 底部60px间距
         }}
       >
         
@@ -237,6 +237,22 @@ export default function ProjectDetail({ initialProject, initialProjects, initial
               </div>
             </div>
           )}
+          
+          {/* 中文注释: 版权信息 - 在项目详情内容下方116px处 */}
+          <div 
+            className="w-full text-center"
+            style={{
+              marginTop: '116px', // 中文注释: 项目详情内容下方116px
+              color: 'var(--text-light, rgba(50, 51, 53, 0.56))',
+              fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, sans-serif',
+              fontSize: '12px',
+              fontStyle: 'normal',
+              fontWeight: 500,
+              lineHeight: 'normal'
+            }}
+          >
+            © 2025 Lanaya    |    Built with Cursor
+          </div>
         </div>
 
       </main>
