@@ -108,7 +108,7 @@ export default function HomeAiCoding() {
   // 中文注释: 背景现在直接在 JSX 中实现，包含线性渐变和 noise 效果
 
   return (
-    <div className="w-full bg-white relative" style={{ paddingBottom: '200px', minHeight: '100vh' }}>
+    <div className="w-full bg-white relative" style={{ minHeight: '100vh' }}>
       {/* 中文注释: 整个背景组 - 包含渐变背景和装饰元素，统一 24% 透明度 */}
       <div 
         className="absolute top-0 left-0 w-full overflow-hidden pointer-events-none z-0" 
@@ -222,7 +222,7 @@ export default function HomeAiCoding() {
         </h1>
 
         {/* 中文注释: 主要内容区域 - 在容器内，与标题在同一个容器中，移动端160px间距 */}
-        <main className="mt-[160px] lg:mt-[204px]">
+        <main className="mt-[160px] lg:mt-[204px]" style={{ paddingBottom: '60px' }}>
         <div className="flex flex-col gap-[116px] lg:gap-[160px]">
             
             {/* 中文注释: About 部分 - 左右布局：左侧文字，右侧图片+联系方式 */}
@@ -409,7 +409,7 @@ export default function HomeAiCoding() {
           </section>
 
             {/* 中文注释: 项目列表部分 */}
-            <section className="flex flex-col gap-14" style={{ marginBottom: '72px' }}>
+            <section className="flex flex-col gap-14">
               <h2 
                 className="text-[24px] font-semibold text-[#323335] leading-none"
                 style={{ fontFamily: "'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif" }}
@@ -417,6 +417,22 @@ export default function HomeAiCoding() {
                 Projects
               </h2>
               <ProjectList />
+              
+              {/* 中文注释: 版权信息 - 在项目列表下方116px处 */}
+              <div 
+                className="w-full text-center"
+                style={{
+                  marginTop: '116px', // 中文注释: 项目列表下方116px
+                  color: 'var(--text-light, rgba(50, 51, 53, 0.56))',
+                  fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, sans-serif',
+                  fontSize: '12px',
+                  fontStyle: 'normal',
+                  fontWeight: 500,
+                  lineHeight: 'normal'
+                }}
+              >
+                © 2025 Lanaya    |    Built with Cursor
+              </div>
             </section>
           </div>
         </main>
